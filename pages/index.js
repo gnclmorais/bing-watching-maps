@@ -1,12 +1,38 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import styles from '../styles/Home.module.css'
 
-export default function Home() {
+import styles from '../styles/Home.module.css'
+import { getSortedBooksData } from '../lib/books'
+
+export async function getStaticProps() {
+  const allBooksData = getSortedBooksData()
+
+  return {
+    props: {
+      allBooksData
+    }
+  }
+}
+
+export default function Home({ allBooksData }) {
   return (
-    <div class="flex flex-col h-screen">
-      <header class="bg-purple-900 text-white">header</header>
-      <content class="flex-1 overflow-y-auto">
+    <div className="flex flex-col h-screen">
+      <header className="bg-purple-900 text-white">header</header>
+
+      <section>
+        <h2>Books</h2>
+        <ul>
+          {allBooksData.map(({ id, title, chapters }) => (
+            <li key={id}>
+              {title}
+              <br />
+              {chapters.map(({ title }) => title).join(', ')}
+            </li>
+          ))}
+        </ul>
+      </section>
+
+      <content className="flex-1 overflow-y-auto">
         <div className={styles.container}>
           <Head>
             <title>Create Next App</title>
@@ -69,7 +95,7 @@ export default function Home() {
           </footer>
         </div>
       </content>
-      <footer class="bg-purple-900 text-white">footer</footer>
+      <footer className="bg-purple-900 text-white">footer</footer>
     </div>
   )
 }

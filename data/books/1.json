@@ -1,0 +1,15 @@
+{
+  "title": "Binge Watching New York",
+  "chapters": [
+    {
+      "id": 6,
+      "title": "The American Dream",
+      "subtitle": "If you can make it there, you'll make it anywhere"
+    },
+    {
+      "id": 7,
+      "title": "Mad Men",
+      "subtitle": "Suit up in Midtown Manhattan"
+    }
+  ]
+}
