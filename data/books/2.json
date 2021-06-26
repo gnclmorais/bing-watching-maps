@@ -11,6 +11,41 @@
       "id": 19,
       "title": "City of period dramas",
       "subtitle": "London through the ages"
+    },
+    {
+      "id": 20,
+      "title": "Gothic London",
+      "subtitle": "Gaslight, gargoyles, and gore"
+    },
+    {
+      "id": 21,
+      "title": "Urban crime dramas",
+      "subtitle": "Elementary, my dear"
+    },
+    {
+      "id": 22,
+      "title": "The Powers that be",
+      "subtitle": "Politics, spin doctors, and spies"
+    },
+    {
+      "id": 23,
+      "title": "Futuristic London",
+      "subtitle": "Dystopian architecture"
+    },
+    {
+      "id": 24,
+      "title": "Love, actually",
+      "subtitle": "Sex and romance"
+    },
+    {
+      "id": 25,
+      "title": "Quintessentially funny",
+      "subtitle": "Best of Britcoms"
+    },
+    {
+      "id": 26,
+      "title": "The Special Relationship",
+      "subtitle": "Modern fashion, classic shows"
     }
   ]
 }

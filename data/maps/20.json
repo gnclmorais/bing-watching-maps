@@ -1,0 +1,931 @@
+{
+  "id": 20,
+  "title": "Gothic London",
+  "subtitle": "Gaslight, gargoyles, and gore",
+  "markers": [
+    {
+      "id": 686,
+      "place_id": 677,
+      "map_id": 20,
+      "created_at": "2019-04-07T12:53:39.319Z",
+      "updated_at": "2019-04-07T12:53:50.284Z",
+      "position": 1,
+      "name": "Sands Films",
+      "place": {
+        "id": 677,
+        "google_place_id": "ChIJK5OJLiQDdkgRySv0sK8iDjk",
+        "name": "Sands Films Studio",
+        "address": "82 St Marychurch St, London SE16 4HZ, UK",
+        "description": null,
+        "created_at": "2019-04-07T12:53:39.306Z",
+        "updated_at": "2019-04-07T12:53:39.306Z",
+        "lat": "51.50141929999999",
+        "lng": "-0.05345750000003591"
+      },
+      "tagged_pins": [
+        {
+          "id": 1438,
+          "name": "Taboo",
+          "tag_id": 170
+        },
+        {
+          "id": 1439,
+          "name": "studio",
+          "tag_id": 102
+        },
+        {
+          "id": 1440,
+          "name": "film",
+          "tag_id": 69
+        }
+      ]
+    },
+    {
+      "id": 687,
+      "place_id": 678,
+      "map_id": 20,
+      "created_at": "2019-04-07T12:54:05.043Z",
+      "updated_at": "2019-04-07T12:54:05.043Z",
+      "position": 2,
+      "name": "Goldsmiths' Hall",
+      "place": {
+        "id": 678,
+        "google_place_id": "ChIJQYJBOlUbdkgRNc-zPJOD6F0",
+        "name": "Goldsmiths' Hall",
+        "address": "Goldsmiths' Hall, London, UK",
+        "description": null,
+        "created_at": "2019-04-07T12:54:05.031Z",
+        "updated_at": "2019-04-07T12:54:05.031Z",
+        "lat": "51.5157119",
+        "lng": "-0.09594579999998132"
+      },
+      "tagged_pins": [
+        {
+          "id": 1441,
+          "name": "Taboo",
+          "tag_id": 170
+        },
+        {
+          "id": 1442,
+          "name": "architecture",
+          "tag_id": 72
+        }
+      ]
+    },
+    {
+      "id": 688,
+      "place_id": 679,
+      "map_id": 20,
+      "created_at": "2019-04-07T12:54:31.558Z",
+      "updated_at": "2019-04-07T12:54:39.788Z",
+      "position": 3,
+      "name": "Greenland Dock \u0026 Surrey Quays",
+      "place": {
+        "id": 679,
+        "google_place_id": "ChIJb4zARt0CdkgR8X9Z7P1fojQ",
+        "name": "Greenland Dock",
+        "address": "Swedish Quay, London SE16 7UF, UK",
+        "description": null,
+        "created_at": "2019-04-07T12:54:31.549Z",
+        "updated_at": "2019-04-07T12:54:31.549Z",
+        "lat": "51.49505139999999",
+        "lng": "-0.03619909999997617"
+      },
+      "tagged_pins": [
+        {
+          "id": 1443,
+          "name": "Taboo",
+          "tag_id": 170
+        },
+        {
+          "id": 1444,
+          "name": "residential",
+          "tag_id": 40
+        }
+      ]
+    },
+    {
+      "id": 689,
+      "place_id": 680,
+      "map_id": 20,
+      "created_at": "2019-04-07T12:55:03.885Z",
+      "updated_at": "2019-04-07T12:55:03.885Z",
+      "position": 4,
+      "name": "East India Dock Basin",
+      "place": {
+        "id": 680,
+        "google_place_id": "ChIJ5bIzLQKo2EcRKYsINQvJdLM",
+        "name": "East India Dock Basin",
+        "address": "East India Dock Basin, Poplar, London, UK",
+        "description": null,
+        "created_at": "2019-04-07T12:55:03.878Z",
+        "updated_at": "2019-04-07T12:55:03.878Z",
+        "lat": "51.5092587",
+        "lng": "0.002748699999983728"
+      },
+      "tagged_pins": [
+        {
+          "id": 1445,
+          "name": "Taboo",
+          "tag_id": 170
+        },
+        {
+          "id": 1446,
+          "name": "residential",
+          "tag_id": 40
+        }
+      ]
+    },
+    {
+      "id": 690,
+      "place_id": 681,
+      "map_id": 20,
+      "created_at": "2019-04-07T12:55:40.668Z",
+      "updated_at": "2019-04-07T13:31:19.029Z",
+      "position": 5,
+      "name": "Mayflower Pub",
+      "place": {
+        "id": 681,
+        "google_place_id": "ChIJo3GMMiQDdkgRLEL6Mu4LR8s",
+        "name": "The Mayflower Pub",
+        "address": "117 Rotherhithe St, London SE16 4NF, UK",
+        "description": null,
+        "created_at": "2019-04-07T12:55:40.657Z",
+        "updated_at": "2019-04-07T12:55:40.657Z",
+        "lat": "51.5017621",
+        "lng": "-0.05355740000004516"
+      },
+      "tagged_pins": [
+        {
+          "id": 1447,
+          "name": "Taboo",
+          "tag_id": 170
+        },
+        {
+          "id": 1448,
+          "name": "bar",
+          "tag_id": 27
+        }
+      ]
+    },
+    {
+      "id": 691,
+      "place_id": 682,
+      "map_id": 20,
+      "created_at": "2019-04-07T12:57:27.050Z",
+      "updated_at": "2019-04-07T12:57:37.213Z",
+      "position": 6,
+      "name": "British Museum",
+      "place": {
+        "id": 682,
+        "google_place_id": "ChIJB9OTMDIbdkgRp0JWbQGZsS8",
+        "name": "The British Museum",
+        "address": "Great Russell St, Bloomsbury, London WC1B 3DG, UK",
+        "description": null,
+        "created_at": "2019-04-07T12:57:27.041Z",
+        "updated_at": "2019-04-07T12:57:27.041Z",
+        "lat": "51.5194133",
+        "lng": "-0.12695659999997133"
+      },
+      "tagged_pins": [
+        {
+          "id": 1449,
+          "name": "Penny Dreadful",
+          "tag_id": 171
+        },
+        {
+          "id": 1450,
+          "name": "museum",
+          "tag_id": 23
+        },
+        {
+          "id": 1451,
+          "name": "must-see",
+          "tag_id": 16
+        }
+      ]
+    },
+    {
+      "id": 692,
+      "place_id": 683,
+      "map_id": 20,
+      "created_at": "2019-04-07T12:59:37.150Z",
+      "updated_at": "2019-04-07T12:59:37.150Z",
+      "position": 7,
+      "name": "Sir John Soane's Museum",
+      "place": {
+        "id": 683,
+        "google_place_id": "ChIJaQQ3lEobdkgRmauadcnji9s",
+        "name": "Sir John Soane's Museum",
+        "address": "13 Lincoln's Inn Fields, London WC2A 3BP, UK",
+        "description": null,
+        "created_at": "2019-04-07T12:59:37.142Z",
+        "updated_at": "2019-04-07T12:59:37.142Z",
+        "lat": "51.51703819999999",
+        "lng": "-0.11746990000006008"
+      },
+      "tagged_pins": [
+        {
+          "id": 1452,
+          "name": "Penny Dreadful",
+          "tag_id": 171
+        },
+        {
+          "id": 1453,
+          "name": "art",
+          "tag_id": 34
+        },
+        {
+          "id": 1454,
+          "name": "museum",
+          "tag_id": 23
+        },
+        {
+          "id": 1455,
+          "name": "must-see",
+          "tag_id": 16
+        }
+      ]
+    },
+    {
+      "id": 693,
+      "place_id": 684,
+      "map_id": 20,
+      "created_at": "2019-04-07T13:00:14.450Z",
+      "updated_at": "2019-04-07T13:00:22.293Z",
+      "position": 8,
+      "name": "Viktor Wynd Museum of Curiosities",
+      "place": {
+        "id": 684,
+        "google_place_id": "ChIJq_RMR90cdkgRX4F8wxTGKhE",
+        "name": "The Viktor Wynd Museum of Curiosities",
+        "address": "11 Mare St, London E8 4RP, UK",
+        "description": null,
+        "created_at": "2019-04-07T13:00:14.442Z",
+        "updated_at": "2019-04-07T13:00:14.442Z",
+        "lat": "51.534646",
+        "lng": "-0.05760110000005625"
+      },
+      "tagged_pins": [
+        {
+          "id": 1456,
+          "name": "Penny Dreadful",
+          "tag_id": 171
+        },
+        {
+          "id": 1457,
+          "name": "museum",
+          "tag_id": 23
+        },
+        {
+          "id": 1458,
+          "name": "bar",
+          "tag_id": 27
+        }
+      ]
+    },
+    {
+      "id": 694,
+      "place_id": 685,
+      "map_id": 20,
+      "created_at": "2019-04-07T13:00:50.139Z",
+      "updated_at": "2019-04-07T13:00:50.139Z",
+      "position": 9,
+      "name": "ZSL London Zoo",
+      "place": {
+        "id": 685,
+        "google_place_id": "ChIJV_iXMtcadkgRqBI84CY_crE",
+        "name": "ZSL London Zoo",
+        "address": "London NW1 4RY, UK",
+        "description": null,
+        "created_at": "2019-04-07T13:00:50.131Z",
+        "updated_at": "2019-04-07T13:00:50.131Z",
+        "lat": "51.5352875",
+        "lng": "-0.15343029999996816"
+      },
+      "tagged_pins": [
+        {
+          "id": 1459,
+          "name": "Penny Dreadful",
+          "tag_id": 171
+        },
+        {
+          "id": 1460,
+          "name": "kids",
+          "tag_id": 85
+        },
+        {
+          "id": 1461,
+          "name": "park",
+          "tag_id": 19
+        }
+      ]
+    },
+    {
+      "id": 695,
+      "place_id": 686,
+      "map_id": 20,
+      "created_at": "2019-04-07T13:02:24.967Z",
+      "updated_at": "2019-04-07T13:05:04.828Z",
+      "position": 10,
+      "name": "Kew Gardens",
+      "place": {
+        "id": 686,
+        "google_place_id": "ChIJQzRbYMUNdkgRfvuRYk-Rb9E",
+        "name": "Royal Botanic Gardens, Kew",
+        "address": "Richmond TW9 3AB, UK",
+        "description": null,
+        "created_at": "2019-04-07T13:02:24.954Z",
+        "updated_at": "2019-04-07T13:02:24.954Z",
+        "lat": "51.4787438",
+        "lng": "-0.2955729999999903"
+      },
+      "tagged_pins": [
+        {
+          "id": 1462,
+          "name": "Penny Dreadful",
+          "tag_id": 171
+        },
+        {
+          "id": 1463,
+          "name": "park",
+          "tag_id": 19
+        },
+        {
+          "id": 1464,
+          "name": "royal residence",
+          "tag_id": 58
+        }
+      ]
+    },
+    {
+      "id": 696,
+      "place_id": 687,
+      "map_id": 20,
+      "created_at": "2019-04-07T13:04:05.306Z",
+      "updated_at": "2019-04-07T13:06:55.341Z",
+      "position": 11,
+      "name": "Cross Bones Graveyard",
+      "place": {
+        "id": 687,
+        "google_place_id": "ChIJmdtwBFgDdkgR19w2JwWoX4s",
+        "name": "Crossbones Garden",
+        "address": "Union Street, London SE1 1SD, United Kingdom",
+        "description": null,
+        "created_at": "2019-04-07T13:04:05.299Z",
+        "updated_at": "2019-04-07T13:04:05.299Z",
+        "lat": "51.5039022",
+        "lng": "-0.09342700000001969"
+      },
+      "tagged_pins": [
+        {
+          "id": 1465,
+          "name": "Penny Dreadful",
+          "tag_id": 171
+        },
+        {
+          "id": 1466,
+          "name": "cemetery",
+          "tag_id": 136
+        }
+      ]
+    },
+    {
+      "id": 697,
+      "place_id": 688,
+      "map_id": 20,
+      "created_at": "2019-04-07T13:07:49.249Z",
+      "updated_at": "2019-04-07T13:07:49.249Z",
+      "position": 12,
+      "name": "Shad Thames",
+      "place": {
+        "id": 688,
+        "google_place_id": "ChIJFfwg0UUDdkgR3kr97Wa_N6A",
+        "name": "Shad Thames",
+        "address": "Shad Thames, London, UK",
+        "description": null,
+        "created_at": "2019-04-07T13:07:49.238Z",
+        "updated_at": "2019-04-07T13:07:49.238Z",
+        "lat": "51.50189839999999",
+        "lng": "-0.07242359999997916"
+      },
+      "tagged_pins": [
+        {
+          "id": 1467,
+          "name": "Penny Dreadful",
+          "tag_id": 171
+        },
+        {
+          "id": 1468,
+          "name": "residential",
+          "tag_id": 40
+        },
+        {
+          "id": 1469,
+          "name": "architecture",
+          "tag_id": 72
+        }
+      ]
+    },
+    {
+      "id": 698,
+      "place_id": 689,
+      "map_id": 20,
+      "created_at": "2019-04-07T13:09:19.903Z",
+      "updated_at": "2019-04-07T13:09:19.903Z",
+      "position": 13,
+      "name": "St. Pancras Old Church",
+      "place": {
+        "id": 689,
+        "google_place_id": "ChIJe_96pR0bdkgRSR26hguTjWs",
+        "name": "St. Pancras Old Church",
+        "address": "Pancras Rd, Camden Town NW1 1UL, UK",
+        "description": null,
+        "created_at": "2019-04-07T13:09:19.890Z",
+        "updated_at": "2019-04-07T13:09:19.890Z",
+        "lat": "51.5349334",
+        "lng": "-0.130150800000024"
+      },
+      "tagged_pins": [
+        {
+          "id": 1472,
+          "name": "The Frankenstein Chronicles",
+          "tag_id": 172
+        },
+        {
+          "id": 1473,
+          "name": "religious",
+          "tag_id": 55
+        },
+        {
+          "id": 1474,
+          "name": "cemetery",
+          "tag_id": 136
+        }
+      ]
+    },
+    {
+      "id": 699,
+      "place_id": 690,
+      "map_id": 20,
+      "created_at": "2019-04-07T13:09:38.973Z",
+      "updated_at": "2019-04-07T13:09:38.973Z",
+      "position": 14,
+      "name": "24 Chester Square",
+      "place": {
+        "id": 690,
+        "google_place_id": "ChIJj99xjSIFdkgRVNV6_94gYpc",
+        "name": "24 Chester Square",
+        "address": "24 Chester Square, Belgravia, London SW1W 9HS, UK",
+        "description": null,
+        "created_at": "2019-04-07T13:09:38.961Z",
+        "updated_at": "2019-04-07T13:09:38.961Z",
+        "lat": "51.4950795",
+        "lng": "-0.15035629999999855"
+      },
+      "tagged_pins": [
+        {
+          "id": 1475,
+          "name": "The Frankenstein Chronicles",
+          "tag_id": 172
+        },
+        {
+          "id": 1476,
+          "name": "residential",
+          "tag_id": 40
+        }
+      ]
+    },
+    {
+      "id": 700,
+      "place_id": 691,
+      "map_id": 20,
+      "created_at": "2019-04-07T13:12:00.242Z",
+      "updated_at": "2019-04-07T13:12:00.242Z",
+      "position": 15,
+      "name": "Tate Britain",
+      "place": {
+        "id": 691,
+        "google_place_id": "ChIJvWjCxekEdkgRoCgQVJHZH_U",
+        "name": "Tate Britain",
+        "address": "Millbank, Westminster, London SW1P 4RG, UK",
+        "description": null,
+        "created_at": "2019-04-07T13:12:00.224Z",
+        "updated_at": "2019-04-07T13:12:00.224Z",
+        "lat": "51.4910621",
+        "lng": "-0.12778860000003078"
+      },
+      "tagged_pins": [
+        {
+          "id": 1477,
+          "name": "The Frankenstein Chronicles",
+          "tag_id": 172
+        },
+        {
+          "id": 1478,
+          "name": "museum",
+          "tag_id": 23
+        },
+        {
+          "id": 1479,
+          "name": "art",
+          "tag_id": 34
+        }
+      ]
+    },
+    {
+      "id": 701,
+      "place_id": 692,
+      "map_id": 20,
+      "created_at": "2019-04-07T13:12:14.845Z",
+      "updated_at": "2019-04-07T13:12:14.845Z",
+      "position": 16,
+      "name": "St. Paul's Cathedral",
+      "place": {
+        "id": 692,
+        "google_place_id": "ChIJh7wHoqwEdkgR3l-vqQE1HTo",
+        "name": "St. Paul's Cathedral",
+        "address": "St. Paul's Churchyard, London EC4M 8AD, UK",
+        "description": null,
+        "created_at": "2019-04-07T13:12:14.836Z",
+        "updated_at": "2019-04-07T13:12:14.836Z",
+        "lat": "51.5138453",
+        "lng": "-0.0983506000000034"
+      },
+      "tagged_pins": [
+        {
+          "id": 1480,
+          "name": "The Frankenstein Chronicles",
+          "tag_id": 172
+        },
+        {
+          "id": 1481,
+          "name": "religious",
+          "tag_id": 55
+        },
+        {
+          "id": 1482,
+          "name": "must-see",
+          "tag_id": 16
+        }
+      ]
+    },
+    {
+      "id": 702,
+      "place_id": 693,
+      "map_id": 20,
+      "created_at": "2019-04-07T13:13:23.759Z",
+      "updated_at": "2019-04-07T13:13:23.759Z",
+      "position": 17,
+      "name": "Whitechapel Station",
+      "place": {
+        "id": 693,
+        "google_place_id": "ChIJM1I7780cdkgRHyeKVVMVE_0",
+        "name": "Whitechapel Station",
+        "address": "277 Whitechapel Rd, Shadwell, London E1 1BY, UK",
+        "description": null,
+        "created_at": "2019-04-07T13:13:23.751Z",
+        "updated_at": "2019-04-07T13:13:23.751Z",
+        "lat": "51.5194973",
+        "lng": "-0.06120179999993525"
+      },
+      "tagged_pins": [
+        {
+          "id": 1485,
+          "name": "Whitechapel",
+          "tag_id": 173
+        },
+        {
+          "id": 1486,
+          "name": "station",
+          "tag_id": 163
+        }
+      ]
+    },
+    {
+      "id": 703,
+      "place_id": 694,
+      "map_id": 20,
+      "created_at": "2019-04-07T13:13:50.153Z",
+      "updated_at": "2019-04-07T13:13:50.153Z",
+      "position": 18,
+      "name": "Jack The Ripper Museum",
+      "place": {
+        "id": 694,
+        "google_place_id": "ChIJP0WVyDUDdkgRyXw130nxbxE",
+        "name": "Jack The Ripper Museum",
+        "address": "12 Cable St, Whitechapel, London E1 8JG, UK",
+        "description": null,
+        "created_at": "2019-04-07T13:13:50.146Z",
+        "updated_at": "2019-04-07T13:13:50.146Z",
+        "lat": "51.5107921",
+        "lng": "-0.06793270000002849"
+      },
+      "tagged_pins": [
+        {
+          "id": 1487,
+          "name": "Ripper Street",
+          "tag_id": 174
+        },
+        {
+          "id": 1488,
+          "name": "museum",
+          "tag_id": 23
+        }
+      ]
+    },
+    {
+      "id": 704,
+      "place_id": 695,
+      "map_id": 20,
+      "created_at": "2019-04-07T13:25:32.454Z",
+      "updated_at": "2019-04-07T13:25:32.454Z",
+      "position": 19,
+      "name": "Mitre Square",
+      "place": {
+        "id": 695,
+        "google_place_id": "ChIJ1fbywUwDdkgRtbVMP9hVmwg",
+        "name": "Mitre Square",
+        "address": "Mitre Square, London, UK",
+        "description": null,
+        "created_at": "2019-04-07T13:25:32.445Z",
+        "updated_at": "2019-04-07T13:25:32.445Z",
+        "lat": "51.5138185",
+        "lng": "-0.07805519999999433"
+      },
+      "tagged_pins": [
+        {
+          "id": 1489,
+          "name": "Whitechapel",
+          "tag_id": 173
+        },
+        {
+          "id": 1490,
+          "name": "residential",
+          "tag_id": 40
+        }
+      ]
+    },
+    {
+      "id": 705,
+      "place_id": 696,
+      "map_id": 20,
+      "created_at": "2019-04-07T13:26:00.695Z",
+      "updated_at": "2019-04-07T13:26:06.733Z",
+      "position": 20,
+      "name": "Big Chill",
+      "place": {
+        "id": 696,
+        "google_place_id": "ChIJcwCeFbYcdkgRDgi6Mm-BVH4",
+        "name": "Big Chill Brick Lane",
+        "address": "Dray Walk, Brick Ln, London E1 6QL, United Kingdom",
+        "description": null,
+        "created_at": "2019-04-07T13:26:00.688Z",
+        "updated_at": "2019-04-07T13:26:00.688Z",
+        "lat": "51.52107849999999",
+        "lng": "-0.07280809999997473"
+      },
+      "tagged_pins": [
+        {
+          "id": 1491,
+          "name": "Ripper Street",
+          "tag_id": 174
+        },
+        {
+          "id": 1492,
+          "name": "bar",
+          "tag_id": 27
+        }
+      ]
+    },
+    {
+      "id": 706,
+      "place_id": 697,
+      "map_id": 20,
+      "created_at": "2019-04-07T13:26:20.427Z",
+      "updated_at": "2019-04-07T13:26:38.473Z",
+      "position": 21,
+      "name": "Old Truman Brewery",
+      "place": {
+        "id": 697,
+        "google_place_id": "ChIJG53AgbYcdkgRkR-UdmGWs_8",
+        "name": "The Truman Brewery",
+        "address": "91 Brick Ln, London E1 6QR, UK",
+        "description": null,
+        "created_at": "2019-04-07T13:26:20.413Z",
+        "updated_at": "2019-04-07T13:26:20.413Z",
+        "lat": "51.5209735",
+        "lng": "-0.07250380000004952"
+      },
+      "tagged_pins": [
+        {
+          "id": 1493,
+          "name": "Ripper Street",
+          "tag_id": 174
+        },
+        {
+          "id": 1494,
+          "name": "brewery",
+          "tag_id": 175
+        }
+      ]
+    },
+    {
+      "id": 707,
+      "place_id": 698,
+      "map_id": 20,
+      "created_at": "2019-04-07T13:28:08.901Z",
+      "updated_at": "2019-04-07T13:28:13.625Z",
+      "position": 22,
+      "name": "Old Operating Theatre Museum",
+      "place": {
+        "id": 698,
+        "google_place_id": "ChIJXRDdrFADdkgRT_s4Gh7ORxg",
+        "name": "The Old Operating Theatre Museum and Herb Garret",
+        "address": "9a St Thomas St, London SE1 9RY, UK",
+        "description": null,
+        "created_at": "2019-04-07T13:28:08.889Z",
+        "updated_at": "2019-04-07T13:28:08.889Z",
+        "lat": "51.5050322",
+        "lng": "-0.08853099999998904"
+      },
+      "tagged_pins": [
+        {
+          "id": 1495,
+          "name": "Ripper Street",
+          "tag_id": 174
+        },
+        {
+          "id": 1497,
+          "name": "museum",
+          "tag_id": 23
+        },
+        {
+          "id": 1498,
+          "name": "must-see",
+          "tag_id": 16
+        }
+      ]
+    },
+    {
+      "id": 708,
+      "place_id": 699,
+      "map_id": 20,
+      "created_at": "2019-04-07T13:28:35.426Z",
+      "updated_at": "2019-04-07T13:28:35.426Z",
+      "position": 23,
+      "name": "St John Bread and Wine",
+      "place": {
+        "id": 699,
+        "google_place_id": "ChIJ5_ONJLQcdkgRW3THMc7fBOg",
+        "name": "St John Bread and Wine",
+        "address": "94-96 Commercial St, London E1 6LZ, UK",
+        "description": null,
+        "created_at": "2019-04-07T13:28:35.417Z",
+        "updated_at": "2019-04-07T13:28:35.417Z",
+        "lat": "51.5197068",
+        "lng": "-0.07424889999992956"
+      },
+      "tagged_pins": [
+        {
+          "id": 1499,
+          "name": "Whitechapel",
+          "tag_id": 173
+        },
+        {
+          "id": 1500,
+          "name": "restaurant",
+          "tag_id": 3
+        }
+      ]
+    },
+    {
+      "id": 709,
+      "place_id": 700,
+      "map_id": 20,
+      "created_at": "2019-04-07T13:29:03.423Z",
+      "updated_at": "2019-04-28T20:50:45.408Z",
+      "position": 24,
+      "name": "Ten Bells",
+      "place": {
+        "id": 700,
+        "google_place_id": "ChIJS36lO7QcdkgRrM1pXUYLS4g",
+        "name": "The Ten Bells",
+        "address": "84 Commercial St, London E1 6LY, UK",
+        "description": null,
+        "created_at": "2019-04-07T13:29:03.409Z",
+        "updated_at": "2019-04-07T13:29:03.409Z",
+        "lat": "51.51935599999999",
+        "lng": "-0.07430299999998624"
+      },
+      "tagged_pins": [
+        {
+          "id": 1501,
+          "name": "Whitechapel",
+          "tag_id": 173
+        },
+        {
+          "id": 1502,
+          "name": "bar",
+          "tag_id": 27
+        }
+      ]
+    },
+    {
+      "id": 710,
+      "place_id": 701,
+      "map_id": 20,
+      "created_at": "2019-04-07T13:29:35.144Z",
+      "updated_at": "2019-04-07T13:29:35.144Z",
+      "position": 25,
+      "name": "Leman Street Police Station",
+      "place": {
+        "id": 701,
+        "google_place_id": "ChIJOavofDUDdkgRjxSe5WAFBZ4",
+        "name": "Leman Street Police Station",
+        "address": "Leman Street Police Station, 74 Leman St, Whitechapel, London E1 8EU, UK",
+        "description": null,
+        "created_at": "2019-04-07T13:29:35.135Z",
+        "updated_at": "2019-04-07T13:29:35.135Z",
+        "lat": "51.51278989999999",
+        "lng": "-0.0700362000000041"
+      },
+      "tagged_pins": [
+        {
+          "id": 1503,
+          "name": "Ripper Street",
+          "tag_id": 174
+        },
+        {
+          "id": 1504,
+          "name": "law enforcement",
+          "tag_id": 130
+        }
+      ]
+    },
+    {
+      "id": 711,
+      "place_id": 702,
+      "map_id": 20,
+      "created_at": "2019-04-07T13:29:58.334Z",
+      "updated_at": "2019-04-07T13:30:05.758Z",
+      "position": 26,
+      "name": "Brown Bear",
+      "place": {
+        "id": 702,
+        "google_place_id": "ChIJ23DjuzUDdkgRXd21XBS9wpA",
+        "name": "The Brown Bear",
+        "address": "139 Leman St, Whitechapel, London E1 8EY, UK",
+        "description": null,
+        "created_at": "2019-04-07T13:29:58.323Z",
+        "updated_at": "2019-04-07T13:29:58.323Z",
+        "lat": "51.5114119",
+        "lng": "-0.06855610000002343"
+      },
+      "tagged_pins": [
+        {
+          "id": 1506,
+          "name": "Ripper Street",
+          "tag_id": 174
+        },
+        {
+          "id": 1507,
+          "name": "bar",
+          "tag_id": 27
+        }
+      ]
+    },
+    {
+      "id": 712,
+      "place_id": 703,
+      "map_id": 20,
+      "created_at": "2019-04-07T13:30:17.446Z",
+      "updated_at": "2019-04-07T13:30:17.446Z",
+      "position": 27,
+      "name": "E Pellicci",
+      "place": {
+        "id": 703,
+        "google_place_id": "ChIJPezp68UcdkgR7-XRi5OAXZ4",
+        "name": "E Pellicci",
+        "address": "332 Bethnal Green Rd, London E2 0AG, UK",
+        "description": null,
+        "created_at": "2019-04-07T13:30:17.436Z",
+        "updated_at": "2019-04-07T13:30:17.436Z",
+        "lat": "51.52650800000001",
+        "lng": "-0.06343600000002425"
+      },
+      "tagged_pins": [
+        {
+          "id": 1508,
+          "name": "Whitechapel",
+          "tag_id": 173
+        },
+        {
+          "id": 1509,
+          "name": "restaurant",
+          "tag_id": 3
+        }
+      ]
+    }
+  ]
+}
