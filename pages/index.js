@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
+import Link from 'next/link'
 
 import styles from '../styles/Home.module.css'
 import { getSortedBooksData } from '../lib/books'
@@ -21,10 +22,14 @@ export default function Home({ allBooksData }) {
 
       <section>
         <h2>Books</h2>
+        <br />
         <ul>
-          {allBooksData.map(({ id, title, chapters }) => (
+          {allBooksData.map(({ id, title, chapters }, i) => (
             <li key={id}>
-              {title}
+              {i > 0 && <br />}
+              <Link href={`/books/${id}`}>
+                <a className="underline">{title}</a>
+              </Link>
               <br />
               {chapters.map(({ title }) => title).join(', ')}
             </li>
