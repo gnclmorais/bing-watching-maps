@@ -1,0 +1,1261 @@
+{
+  "id": 14,
+  "title": "Heroes and superheroes",
+  "subtitle": "Good vs Evil in Gotham",
+  "markers": [
+    {
+      "id": 533,
+      "place_id": 525,
+      "map_id": 14,
+      "created_at": "2019-04-06T20:48:52.805Z",
+      "updated_at": "2019-04-06T20:48:59.558Z",
+      "position": 1,
+      "name": "National September 11 Memorial and Museum",
+      "place": {
+        "id": 525,
+        "google_place_id": "ChIJRcvoOxpawokR7R4dQMXMMPQ",
+        "name": "9/11 Memorial",
+        "address": "180 Greenwich St, New York, NY 10007, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:48:52.796Z",
+        "updated_at": "2019-04-06T20:48:52.796Z",
+        "lat": "40.7114743",
+        "lng": "-74.01344319999998"
+      },
+      "tagged_pins": [
+        {
+          "id": 1040,
+          "name": "Rescue Me",
+          "tag_id": 131
+        },
+        {
+          "id": 1041,
+          "name": "museum",
+          "tag_id": 23
+        },
+        {
+          "id": 1042,
+          "name": "must-see",
+          "tag_id": 16
+        },
+        {
+          "id": 1043,
+          "name": "architecture",
+          "tag_id": 72
+        },
+        {
+          "id": 1341,
+          "name": "monument",
+          "tag_id": 54
+        }
+      ]
+    },
+    {
+      "id": 534,
+      "place_id": 526,
+      "map_id": 14,
+      "created_at": "2019-04-06T20:49:17.121Z",
+      "updated_at": "2019-04-06T20:49:17.121Z",
+      "position": 2,
+      "name": "FDNY Battalion 11 Engine 76 \u0026 Ladder 22",
+      "place": {
+        "id": 526,
+        "google_place_id": "ChIJEasjlCb2wokR5Lx1Xvp84pU",
+        "name": "FDNY Battalion 11 Engine 76 \u0026 Ladder 22",
+        "address": "145 W 100th St, New York, NY 10025, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:49:17.112Z",
+        "updated_at": "2019-04-06T20:49:17.112Z",
+        "lat": "40.7963279",
+        "lng": "-73.96710430000002"
+      },
+      "tagged_pins": [
+        {
+          "id": 1044,
+          "name": "Rescue Me",
+          "tag_id": 131
+        },
+        {
+          "id": 1045,
+          "name": "emergency services",
+          "tag_id": 108
+        }
+      ]
+    },
+    {
+      "id": 535,
+      "place_id": 527,
+      "map_id": 14,
+      "created_at": "2019-04-06T20:49:30.875Z",
+      "updated_at": "2019-04-06T20:49:30.875Z",
+      "position": 3,
+      "name": "FDNY Ladder 8",
+      "place": {
+        "id": 527,
+        "google_place_id": "ChIJiUgXTfVZwokR09hPfdQ8Vi4",
+        "name": "FDNY Ladder 8",
+        "address": "14 N Moore St, New York, NY 10013, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:49:30.862Z",
+        "updated_at": "2019-04-06T20:49:30.862Z",
+        "lat": "40.7195656",
+        "lng": "-74.0066124"
+      },
+      "tagged_pins": [
+        {
+          "id": 1046,
+          "name": "Rescue Me",
+          "tag_id": 131
+        },
+        {
+          "id": 1047,
+          "name": "emergency services",
+          "tag_id": 108
+        }
+      ]
+    },
+    {
+      "id": 536,
+      "place_id": 528,
+      "map_id": 14,
+      "created_at": "2019-04-06T20:49:48.120Z",
+      "updated_at": "2019-04-06T20:50:03.972Z",
+      "position": 4,
+      "name": "FDNY Ladder Company 3",
+      "place": {
+        "id": 528,
+        "google_place_id": "ChIJVYU5LplZwokRpBdAM2JrLXo",
+        "name": "H \u0026 L CO 3 \u0026 Water Tower No. 2",
+        "address": "108 E 13th St, New York, NY 10003, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:49:48.110Z",
+        "updated_at": "2019-04-06T20:49:48.110Z",
+        "lat": "40.7331254",
+        "lng": "-73.98944510000001"
+      },
+      "tagged_pins": [
+        {
+          "id": 1048,
+          "name": "Rescue Me",
+          "tag_id": 131
+        },
+        {
+          "id": 1049,
+          "name": "emergency services",
+          "tag_id": 108
+        }
+      ]
+    },
+    {
+      "id": 537,
+      "place_id": 529,
+      "map_id": 14,
+      "created_at": "2019-04-06T20:50:15.449Z",
+      "updated_at": "2019-04-06T20:50:15.449Z",
+      "position": 5,
+      "name": "One World Trade Center",
+      "place": {
+        "id": 529,
+        "google_place_id": "ChIJy7cGfBlawokR5l2e93hsoEA",
+        "name": "One World Trade Center",
+        "address": "285 Fulton St, New York, NY 10007, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:50:15.440Z",
+        "updated_at": "2019-04-06T20:50:15.440Z",
+        "lat": "40.7127431",
+        "lng": "-74.01337949999999"
+      },
+      "tagged_pins": [
+        {
+          "id": 1055,
+          "name": "Rescue Me",
+          "tag_id": 131
+        },
+        {
+          "id": 1056,
+          "name": "architecture",
+          "tag_id": 72
+        },
+        {
+          "id": 1057,
+          "name": "vista",
+          "tag_id": 75
+        }
+      ]
+    },
+    {
+      "id": 538,
+      "place_id": 530,
+      "map_id": 14,
+      "created_at": "2019-04-06T20:50:32.014Z",
+      "updated_at": "2019-04-06T20:50:44.496Z",
+      "position": 6,
+      "name": "Boys High School",
+      "place": {
+        "id": 530,
+        "google_place_id": "ChIJfwyn4ZFbwokRHjraDgfenVk",
+        "name": "Boys' High School",
+        "address": "832 Marcy Ave, Brooklyn, NY 11216, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:50:32.005Z",
+        "updated_at": "2019-04-06T20:50:32.005Z",
+        "lat": "40.68475160000001",
+        "lng": "-73.94791279999998"
+      },
+      "tagged_pins": [
+        {
+          "id": 1058,
+          "name": "The Knick",
+          "tag_id": 133
+        },
+        {
+          "id": 1060,
+          "name": "school",
+          "tag_id": 29
+        }
+      ]
+    },
+    {
+      "id": 539,
+      "place_id": 531,
+      "map_id": 14,
+      "created_at": "2019-04-06T20:59:27.847Z",
+      "updated_at": "2019-04-06T20:59:27.847Z",
+      "position": 7,
+      "name": "Brooklyn Kolache Co.",
+      "place": {
+        "id": 531,
+        "google_place_id": "ChIJe1O4wpRbwokRu8RmeM2Xji4",
+        "name": "Brooklyn Kolache Co.",
+        "address": "520 Dekalb Ave, Brooklyn, NY 11205, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:59:27.833Z",
+        "updated_at": "2019-04-06T20:59:27.833Z",
+        "lat": "40.6907329",
+        "lng": "-73.95577249999997"
+      },
+      "tagged_pins": [
+        {
+          "id": 1059,
+          "name": "The Knick",
+          "tag_id": 133
+        },
+        {
+          "id": 1061,
+          "name": "food on the go",
+          "tag_id": 24
+        }
+      ]
+    },
+    {
+      "id": 540,
+      "place_id": 532,
+      "map_id": 14,
+      "created_at": "2019-04-06T20:59:38.109Z",
+      "updated_at": "2019-04-06T20:59:38.109Z",
+      "position": 8,
+      "name": "Baruch College",
+      "place": {
+        "id": 532,
+        "google_place_id": "ChIJ3XECVadZwokRDyddOj0jiOw",
+        "name": "Baruch College",
+        "address": "55 Lexington Ave, New York, NY 10010, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:59:38.098Z",
+        "updated_at": "2019-04-06T20:59:38.098Z",
+        "lat": "40.7404873",
+        "lng": "-73.9831567"
+      },
+      "tagged_pins": [
+        {
+          "id": 1062,
+          "name": "Nurse Jackie",
+          "tag_id": 132
+        },
+        {
+          "id": 1063,
+          "name": "school",
+          "tag_id": 29
+        }
+      ]
+    },
+    {
+      "id": 541,
+      "place_id": 533,
+      "map_id": 14,
+      "created_at": "2019-04-06T20:59:57.684Z",
+      "updated_at": "2019-04-06T20:59:57.684Z",
+      "position": 9,
+      "name": "Bellevue Hospital Center",
+      "place": {
+        "id": 533,
+        "google_place_id": "ChIJqccvIQxZwokR4PfF_NqTomc",
+        "name": "Bellevue Hospital Center",
+        "address": "462 1st Avenue, New York, NY 10016, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:59:57.675Z",
+        "updated_at": "2019-04-06T20:59:57.675Z",
+        "lat": "40.7389351",
+        "lng": "-73.97533670000001"
+      },
+      "tagged_pins": [
+        {
+          "id": 1050,
+          "name": "Nurse Jackie",
+          "tag_id": 132
+        },
+        {
+          "id": 1051,
+          "name": "emergency services",
+          "tag_id": 108
+        },
+        {
+          "id": 1054,
+          "name": "health",
+          "tag_id": 84
+        }
+      ]
+    },
+    {
+      "id": 542,
+      "place_id": 534,
+      "map_id": 14,
+      "created_at": "2019-04-06T21:00:12.959Z",
+      "updated_at": "2019-04-06T21:00:19.573Z",
+      "position": 10,
+      "name": "CityMD",
+      "place": {
+        "id": 534,
+        "google_place_id": "ChIJfd19cApZwokRpz42jP4WAdw",
+        "name": "CityMD East 23rd Urgent Care - NYC",
+        "address": "212 E 23rd St, New York, NY 10010, USA",
+        "description": null,
+        "created_at": "2019-04-06T21:00:12.948Z",
+        "updated_at": "2019-04-06T21:00:12.948Z",
+        "lat": "40.7382606",
+        "lng": "-73.98239899999999"
+      },
+      "tagged_pins": [
+        {
+          "id": 1052,
+          "name": "Nurse Jackie",
+          "tag_id": 132
+        },
+        {
+          "id": 1053,
+          "name": "health",
+          "tag_id": 84
+        }
+      ]
+    },
+    {
+      "id": 543,
+      "place_id": 535,
+      "map_id": 14,
+      "created_at": "2019-04-06T21:00:39.069Z",
+      "updated_at": "2019-04-06T21:00:39.069Z",
+      "position": 11,
+      "name": "Ace Hotel",
+      "place": {
+        "id": 535,
+        "google_place_id": "ChIJT2h1HKZZwokR_Nwoxn8RfU0",
+        "name": "Ace Hotel",
+        "address": "20 W 29th St, New York, NY 10001, USA",
+        "description": null,
+        "created_at": "2019-04-06T21:00:39.059Z",
+        "updated_at": "2019-04-06T21:00:39.059Z",
+        "lat": "40.745778",
+        "lng": "-73.98828500000002"
+      },
+      "tagged_pins": [
+        {
+          "id": 1064,
+          "name": "Nurse Jackie",
+          "tag_id": 132
+        },
+        {
+          "id": 1066,
+          "name": "hotel",
+          "tag_id": 21
+        },
+        {
+          "id": 1067,
+          "name": "coffee shop",
+          "tag_id": 35
+        },
+        {
+          "id": 1068,
+          "name": "bar",
+          "tag_id": 27
+        },
+        {
+          "id": 1069,
+          "name": "restaurant",
+          "tag_id": 3
+        }
+      ]
+    },
+    {
+      "id": 544,
+      "place_id": 536,
+      "map_id": 14,
+      "created_at": "2019-04-06T21:00:55.348Z",
+      "updated_at": "2019-04-06T21:00:55.348Z",
+      "position": 12,
+      "name": "Sunburst Espresso Bar",
+      "place": {
+        "id": 536,
+        "google_place_id": "ChIJg5nSLqBZwokR6LhiqlEizVo",
+        "name": "Sunburst Espresso Bar",
+        "address": "206 3rd Ave, New York, NY 10003, USA",
+        "description": null,
+        "created_at": "2019-04-06T21:00:55.337Z",
+        "updated_at": "2019-04-06T21:00:55.337Z",
+        "lat": "40.736009",
+        "lng": "-73.9855"
+      },
+      "tagged_pins": [
+        {
+          "id": 1065,
+          "name": "Nurse Jackie",
+          "tag_id": 132
+        },
+        {
+          "id": 1070,
+          "name": "restaurant",
+          "tag_id": 3
+        },
+        {
+          "id": 1071,
+          "name": "diner",
+          "tag_id": 68
+        }
+      ]
+    },
+    {
+      "id": 545,
+      "place_id": 537,
+      "map_id": 14,
+      "created_at": "2019-04-06T21:01:09.775Z",
+      "updated_at": "2019-04-06T21:01:48.719Z",
+      "position": 13,
+      "name": "Penelope",
+      "place": {
+        "id": 537,
+        "google_place_id": "ChIJgd_KaghZwokREjFid-cMR4w",
+        "name": "Penelope",
+        "address": "159 Lexington Ave, New York, NY 10016, USA",
+        "description": null,
+        "created_at": "2019-04-06T21:01:09.763Z",
+        "updated_at": "2019-04-06T21:01:09.763Z",
+        "lat": "40.743685",
+        "lng": "-73.98145799999998"
+      },
+      "tagged_pins": [
+        {
+          "id": 1072,
+          "name": "Nurse Jackie",
+          "tag_id": 132
+        },
+        {
+          "id": 1073,
+          "name": "restaurant",
+          "tag_id": 3
+        },
+        {
+          "id": 1074,
+          "name": "bar",
+          "tag_id": 27
+        }
+      ]
+    },
+    {
+      "id": 546,
+      "place_id": 538,
+      "map_id": 14,
+      "created_at": "2019-04-06T21:02:55.986Z",
+      "updated_at": "2019-04-06T21:03:10.365Z",
+      "position": 14,
+      "name": "Stuyvesant Square",
+      "place": {
+        "id": 538,
+        "google_place_id": "ChIJH8eOxZ9ZwokR1GxjNrdIyLQ",
+        "name": "Stuyvesant Square Park",
+        "address": "9, Rutherford Pl, New York, NY 10003, USA",
+        "description": null,
+        "created_at": "2019-04-06T21:02:55.977Z",
+        "updated_at": "2019-04-06T21:02:55.977Z",
+        "lat": "40.73394649999999",
+        "lng": "-73.98410480000001"
+      },
+      "tagged_pins": [
+        {
+          "id": 1075,
+          "name": "Nurse Jackie",
+          "tag_id": 132
+        },
+        {
+          "id": 1076,
+          "name": "park",
+          "tag_id": 19
+        }
+      ]
+    },
+    {
+      "id": 547,
+      "place_id": 539,
+      "map_id": 14,
+      "created_at": "2019-04-06T21:03:37.162Z",
+      "updated_at": "2019-04-06T21:03:37.162Z",
+      "position": 15,
+      "name": "Mount Sinai Beth Israel",
+      "place": {
+        "id": 539,
+        "google_place_id": "ChIJv3R4pZ9ZwokRjOjDyckXenQ",
+        "name": "Mount Sinai Beth Israel",
+        "address": "281 1st Avenue, New York, NY 10003, USA",
+        "description": null,
+        "created_at": "2019-04-06T21:03:37.153Z",
+        "updated_at": "2019-04-06T21:03:37.153Z",
+        "lat": "40.7330663",
+        "lng": "-73.98192590000002"
+      },
+      "tagged_pins": [
+        {
+          "id": 1077,
+          "name": "Nurse Jackie",
+          "tag_id": 132
+        },
+        {
+          "id": 1078,
+          "name": "emergency services",
+          "tag_id": 108
+        },
+        {
+          "id": 1079,
+          "name": "health",
+          "tag_id": 84
+        }
+      ]
+    },
+    {
+      "id": 548,
+      "place_id": 540,
+      "map_id": 14,
+      "created_at": "2019-04-06T21:03:52.157Z",
+      "updated_at": "2019-04-06T21:03:57.854Z",
+      "position": 16,
+      "name": "20 Ingram Street",
+      "place": {
+        "id": 540,
+        "google_place_id": "ChIJpRnUyh9ewokRq0GZYLs--yw",
+        "name": "20 Ingram St",
+        "address": "20 Ingram St, Flushing, NY 11375, USA",
+        "description": null,
+        "created_at": "2019-04-06T21:03:52.145Z",
+        "updated_at": "2019-04-06T21:03:52.145Z",
+        "lat": "40.712948",
+        "lng": "-73.843211"
+      },
+      "tagged_pins": [
+        {
+          "id": 1080,
+          "name": "residential",
+          "tag_id": 40
+        }
+      ]
+    },
+    {
+      "id": 549,
+      "place_id": 541,
+      "map_id": 14,
+      "created_at": "2019-04-06T21:04:12.402Z",
+      "updated_at": "2019-04-06T21:04:12.402Z",
+      "position": 17,
+      "name": "Jacob K. Javits Convention Center",
+      "place": {
+        "id": 541,
+        "google_place_id": "ChIJBdPBg2P2wokRg96tvVaRWLE",
+        "name": "Jacob K. Javits Convention Center",
+        "address": "655 W 34th St, New York, NY 10001, USA",
+        "description": null,
+        "created_at": "2019-04-06T21:04:12.387Z",
+        "updated_at": "2019-04-06T21:04:12.387Z",
+        "lat": "40.7578094",
+        "lng": "-74.00251860000003"
+      },
+      "tagged_pins": [
+        {
+          "id": 1081,
+          "name": "entertainment",
+          "tag_id": 26
+        }
+      ]
+    },
+    {
+      "id": 550,
+      "place_id": 542,
+      "map_id": 14,
+      "created_at": "2019-04-06T21:04:26.874Z",
+      "updated_at": "2019-04-06T21:04:26.874Z",
+      "position": 18,
+      "name": "Brooklyn Superhero Supply Co.",
+      "place": {
+        "id": 542,
+        "google_place_id": "ChIJrx1Adf5awokRKk2rFeT_kNk",
+        "name": "Brooklyn Superhero Supply Co.",
+        "address": "372 5th Ave, Brooklyn, NY 11215, USA",
+        "description": null,
+        "created_at": "2019-04-06T21:04:26.865Z",
+        "updated_at": "2019-04-06T21:04:26.865Z",
+        "lat": "40.6714436",
+        "lng": "-73.98477059999999"
+      },
+      "tagged_pins": [
+        {
+          "id": 1082,
+          "name": "shopping",
+          "tag_id": 13
+        }
+      ]
+    },
+    {
+      "id": 551,
+      "place_id": 543,
+      "map_id": 14,
+      "created_at": "2019-04-06T21:04:48.463Z",
+      "updated_at": "2019-04-06T21:04:56.802Z",
+      "position": 19,
+      "name": "Midtown Comics",
+      "place": {
+        "id": 543,
+        "google_place_id": "ChIJE1liW6tZwokRxxmy1Lz8Gd0",
+        "name": "Midtown Comics Times Square",
+        "address": "200 W 40th St, New York, NY 10018, USA",
+        "description": null,
+        "created_at": "2019-04-06T21:04:48.453Z",
+        "updated_at": "2019-04-06T21:04:48.453Z",
+        "lat": "40.7548718",
+        "lng": "-73.988428"
+      },
+      "tagged_pins": [
+        {
+          "id": 1083,
+          "name": "bookstore",
+          "tag_id": 70
+        }
+      ]
+    },
+    {
+      "id": 552,
+      "place_id": 544,
+      "map_id": 14,
+      "created_at": "2019-04-06T21:05:19.446Z",
+      "updated_at": "2019-04-06T21:05:19.446Z",
+      "position": 20,
+      "name": "JHU Comic Books",
+      "place": {
+        "id": 544,
+        "google_place_id": "ChIJ0zfqVKhZwokRsNTJvjVdXyM",
+        "name": "JHU Comic Books",
+        "address": "at, East 33rd Street, 481 3rd Ave #5503, New York, NY 10016, United States",
+        "description": null,
+        "created_at": "2019-04-06T21:05:19.437Z",
+        "updated_at": "2019-04-06T21:05:19.437Z",
+        "lat": "40.744609",
+        "lng": "-73.97855800000002"
+      },
+      "tagged_pins": [
+        {
+          "id": 1084,
+          "name": "bookstore",
+          "tag_id": 70
+        }
+      ]
+    },
+    {
+      "id": 553,
+      "place_id": 545,
+      "map_id": 14,
+      "created_at": "2019-04-06T21:27:49.461Z",
+      "updated_at": "2019-04-06T21:27:49.461Z",
+      "position": 21,
+      "name": "Forbidden Planet",
+      "place": {
+        "id": 545,
+        "google_place_id": "ChIJk4GYHplZwokRh5Le_8U8cmU",
+        "name": "Forbidden Planet",
+        "address": "832 Broadway, New York, NY 10003, USA",
+        "description": null,
+        "created_at": "2019-04-06T21:27:49.447Z",
+        "updated_at": "2019-04-06T21:27:49.447Z",
+        "lat": "40.7334803",
+        "lng": "-73.99075619999996"
+      },
+      "tagged_pins": [
+        {
+          "id": 1085,
+          "name": "bookstore",
+          "tag_id": 70
+        }
+      ]
+    },
+    {
+      "id": 554,
+      "place_id": 546,
+      "map_id": 14,
+      "created_at": "2019-04-06T21:28:05.965Z",
+      "updated_at": "2019-04-06T21:28:05.965Z",
+      "position": 22,
+      "name": "Cortlandt Alley",
+      "place": {
+        "id": 546,
+        "google_place_id": "ChIJLfHeoSBawokR5gqRUwB3z9A",
+        "name": "Cortlandt Alley",
+        "address": "Cortlandt Alley, New York, NY 10013, USA",
+        "description": null,
+        "created_at": "2019-04-06T21:28:05.956Z",
+        "updated_at": "2019-04-06T21:28:05.956Z",
+        "lat": "40.7183168",
+        "lng": "-74.0018397"
+      },
+      "tagged_pins": [
+        {
+          "id": 1086,
+          "name": "Gotham",
+          "tag_id": 134
+        },
+        {
+          "id": 1087,
+          "name": "residential",
+          "tag_id": 40
+        }
+      ]
+    },
+    {
+      "id": 555,
+      "place_id": 547,
+      "map_id": 14,
+      "created_at": "2019-04-06T21:28:24.272Z",
+      "updated_at": "2019-04-06T21:28:28.689Z",
+      "position": 23,
+      "name": "St. Ann's and the Holy Trinity Church",
+      "place": {
+        "id": 547,
+        "google_place_id": "ChIJA0jr9UhawokRgq6TpqDf4b4",
+        "name": "St. Ann \u0026 the Holy Trinity Church",
+        "address": "157 Montague St, Brooklyn, NY 11201, USA",
+        "description": null,
+        "created_at": "2019-04-06T21:28:24.263Z",
+        "updated_at": "2019-04-06T21:28:24.263Z",
+        "lat": "40.6945037",
+        "lng": "-73.99246310000001"
+      },
+      "tagged_pins": [
+        {
+          "id": 1088,
+          "name": "Gotham",
+          "tag_id": 134
+        },
+        {
+          "id": 1089,
+          "name": "religious",
+          "tag_id": 55
+        },
+        {
+          "id": 1090,
+          "name": "architecture",
+          "tag_id": 72
+        }
+      ]
+    },
+    {
+      "id": 556,
+      "place_id": 548,
+      "map_id": 14,
+      "created_at": "2019-04-06T21:28:41.573Z",
+      "updated_at": "2019-04-28T11:42:31.000Z",
+      "position": 24,
+      "name": "Bronx County Courthouse",
+      "place": {
+        "id": 548,
+        "google_place_id": "ChIJER7ypTL0wokRVOa_8F5oGSE",
+        "name": "Bronx County - Civil Court",
+        "address": "851 Grand Concourse, The Bronx, NY 10451, USA",
+        "description": null,
+        "created_at": "2019-04-06T21:28:41.562Z",
+        "updated_at": "2019-04-06T21:28:41.562Z",
+        "lat": "40.8264301",
+        "lng": "-73.92371689999999"
+      },
+      "tagged_pins": [
+        {
+          "id": 1091,
+          "name": "Gotham",
+          "tag_id": 134
+        },
+        {
+          "id": 1092,
+          "name": "architecture",
+          "tag_id": 72
+        },
+        {
+          "id": 1093,
+          "name": "law enforcement",
+          "tag_id": 130
+        }
+      ]
+    },
+    {
+      "id": 557,
+      "place_id": 549,
+      "map_id": 14,
+      "created_at": "2019-04-06T21:28:58.467Z",
+      "updated_at": "2019-04-06T21:29:03.062Z",
+      "position": 25,
+      "name": "Gotham West Market \u0026 Ample Hills Creamery",
+      "place": {
+        "id": 549,
+        "google_place_id": "ChIJ78IJek5YwokRvVV8rYzRhhw",
+        "name": "Gotham West Market",
+        "address": "600 11th Ave, New York, NY 10036, USA",
+        "description": null,
+        "created_at": "2019-04-06T21:28:58.458Z",
+        "updated_at": "2019-04-06T21:28:58.458Z",
+        "lat": "40.7623377",
+        "lng": "-73.99675789999998"
+      },
+      "tagged_pins": [
+        {
+          "id": 1097,
+          "name": "Gotham",
+          "tag_id": 134
+        },
+        {
+          "id": 1098,
+          "name": "food on the go",
+          "tag_id": 24
+        }
+      ]
+    },
+    {
+      "id": 558,
+      "place_id": 550,
+      "map_id": 14,
+      "created_at": "2019-04-06T21:29:15.326Z",
+      "updated_at": "2019-04-06T21:29:15.326Z",
+      "position": 26,
+      "name": "VIA 57 West",
+      "place": {
+        "id": 550,
+        "google_place_id": "ChIJFdLceVtYwokROIHsk05zYyw",
+        "name": "VIA 57 West",
+        "address": "625 W 57th St, New York, NY 10019, USA",
+        "description": null,
+        "created_at": "2019-04-06T21:29:15.317Z",
+        "updated_at": "2019-04-06T21:29:15.317Z",
+        "lat": "40.7712339",
+        "lng": "-73.99318399999999"
+      },
+      "tagged_pins": [
+        {
+          "id": 1099,
+          "name": "Daredevil",
+          "tag_id": 135
+        },
+        {
+          "id": 1100,
+          "name": "residential",
+          "tag_id": 40
+        },
+        {
+          "id": 1101,
+          "name": "architecture",
+          "tag_id": 72
+        }
+      ]
+    },
+    {
+      "id": 559,
+      "place_id": 551,
+      "map_id": 14,
+      "created_at": "2019-04-06T21:29:32.611Z",
+      "updated_at": "2019-04-06T21:29:32.611Z",
+      "position": 27,
+      "name": "Hudson Yards",
+      "place": {
+        "id": 551,
+        "google_place_id": "ChIJT5P7cLZZwokRJhDnzKdPvSk",
+        "name": "Hudson Yards",
+        "address": "Hudson Yards, New York, NY 10001, USA",
+        "description": null,
+        "created_at": "2019-04-06T21:29:32.599Z",
+        "updated_at": "2019-04-06T21:29:32.599Z",
+        "lat": "40.7542652",
+        "lng": "-74.00311799999997"
+      },
+      "tagged_pins": [
+        {
+          "id": 1102,
+          "name": "Daredevil",
+          "tag_id": 135
+        },
+        {
+          "id": 1103,
+          "name": "must-see",
+          "tag_id": 16
+        },
+        {
+          "id": 1104,
+          "name": "shopping",
+          "tag_id": 13
+        },
+        {
+          "id": 1105,
+          "name": "architecture",
+          "tag_id": 72
+        }
+      ]
+    },
+    {
+      "id": 560,
+      "place_id": 552,
+      "map_id": 14,
+      "created_at": "2019-04-06T21:29:50.647Z",
+      "updated_at": "2019-04-06T21:29:55.589Z",
+      "position": 28,
+      "name": "Green-Wood Cemetery and Catacombs",
+      "place": {
+        "id": 552,
+        "google_place_id": "ChIJ5wpCzsJawokRZ_zEIYKrf60",
+        "name": "Green-Wood Cemetery",
+        "address": "500 25th St, Brooklyn, NY 11232, USA",
+        "description": null,
+        "created_at": "2019-04-06T21:29:50.636Z",
+        "updated_at": "2019-04-06T21:29:50.636Z",
+        "lat": "40.65807789999999",
+        "lng": "-73.9948493"
+      },
+      "tagged_pins": [
+        {
+          "id": 1106,
+          "name": "Daredevil",
+          "tag_id": 135
+        },
+        {
+          "id": 1108,
+          "name": "cemetery",
+          "tag_id": 136
+        },
+        {
+          "id": 1112,
+          "name": "architecture",
+          "tag_id": 72
+        }
+      ]
+    },
+    {
+      "id": 561,
+      "place_id": 553,
+      "map_id": 14,
+      "created_at": "2019-04-06T21:30:14.974Z",
+      "updated_at": "2019-04-06T21:30:14.974Z",
+      "position": 29,
+      "name": "Calvary Cemetery",
+      "place": {
+        "id": 553,
+        "google_place_id": "ChIJScIOs8JewokRvIXW_8jHNnI",
+        "name": "Calvary Cemetery",
+        "address": "49-02 Laurel Hill Blvd, Woodside, NY 11377, USA",
+        "description": null,
+        "created_at": "2019-04-06T21:30:14.964Z",
+        "updated_at": "2019-04-06T21:30:14.964Z",
+        "lat": "40.7389451",
+        "lng": "-73.9121318"
+      },
+      "tagged_pins": [
+        {
+          "id": 1107,
+          "name": "Daredevil",
+          "tag_id": 135
+        },
+        {
+          "id": 1109,
+          "name": "cemetery",
+          "tag_id": 136
+        },
+        {
+          "id": 1113,
+          "name": "vista",
+          "tag_id": 75
+        }
+      ]
+    },
+    {
+      "id": 562,
+      "place_id": 554,
+      "map_id": 14,
+      "created_at": "2019-04-06T21:30:26.424Z",
+      "updated_at": "2019-04-06T21:30:31.328Z",
+      "position": 30,
+      "name": "7B Horseshoe Bar",
+      "place": {
+        "id": 554,
+        "google_place_id": "ChIJ_dHPIXhZwokRjbflLgfCFkM",
+        "name": "7B",
+        "address": "108 Avenue B, New York, NY 10009, USA",
+        "description": null,
+        "created_at": "2019-04-06T21:30:26.413Z",
+        "updated_at": "2019-04-06T21:30:26.413Z",
+        "lat": "40.7250535",
+        "lng": "-73.9814144"
+      },
+      "tagged_pins": [
+        {
+          "id": 1110,
+          "name": "Jessica Jones",
+          "tag_id": 137
+        },
+        {
+          "id": 1111,
+          "name": "bar",
+          "tag_id": 27
+        }
+      ]
+    },
+    {
+      "id": 563,
+      "place_id": 555,
+      "map_id": 14,
+      "created_at": "2019-04-06T21:30:54.521Z",
+      "updated_at": "2019-04-06T21:30:54.521Z",
+      "position": 31,
+      "name": "Apollo Theater",
+      "place": {
+        "id": 555,
+        "google_place_id": "ChIJRaWCMm32wokRLdyc4zmYzRw",
+        "name": "Apollo Theater",
+        "address": "253 W 125th St, New York, NY 10027, USA",
+        "description": null,
+        "created_at": "2019-04-06T21:30:54.510Z",
+        "updated_at": "2019-04-06T21:30:54.510Z",
+        "lat": "40.810018",
+        "lng": "-73.95005600000002"
+      },
+      "tagged_pins": [
+        {
+          "id": 1115,
+          "name": "Luke Cage",
+          "tag_id": 138
+        },
+        {
+          "id": 1116,
+          "name": "entertainment",
+          "tag_id": 26
+        }
+      ]
+    },
+    {
+      "id": 564,
+      "place_id": 556,
+      "map_id": 14,
+      "created_at": "2019-04-06T21:31:06.433Z",
+      "updated_at": "2019-04-06T21:31:15.680Z",
+      "position": 32,
+      "name": "United Palace Theater",
+      "place": {
+        "id": 556,
+        "google_place_id": "ChIJ8dCxlp_2wokRosqQLEmx66w",
+        "name": "United Palace",
+        "address": "4140 Broadway, New York, NY 10033, USA",
+        "description": null,
+        "created_at": "2019-04-06T21:31:06.423Z",
+        "updated_at": "2019-04-06T21:31:06.423Z",
+        "lat": "40.8464882",
+        "lng": "-73.93789170000002"
+      },
+      "tagged_pins": [
+        {
+          "id": 1117,
+          "name": "Luke Cage",
+          "tag_id": 138
+        },
+        {
+          "id": 1118,
+          "name": "architecture",
+          "tag_id": 72
+        }
+      ]
+    },
+    {
+      "id": 565,
+      "place_id": 557,
+      "map_id": 14,
+      "created_at": "2019-04-06T21:31:28.417Z",
+      "updated_at": "2019-04-06T21:31:38.146Z",
+      "position": 33,
+      "name": "181 Malcolm X Boulevard",
+      "place": {
+        "id": 557,
+        "google_place_id": "ChIJYdQV-BH2wokRktjoezceFvo",
+        "name": "181 Malcolm X Blvd",
+        "address": "181 Malcolm X Blvd, New York, NY 10026, USA",
+        "description": null,
+        "created_at": "2019-04-06T21:31:28.406Z",
+        "updated_at": "2019-04-06T21:31:28.406Z",
+        "lat": "40.8042236",
+        "lng": "-73.94854199999997"
+      },
+      "tagged_pins": [
+        {
+          "id": 1119,
+          "name": "Luke Cage",
+          "tag_id": 138
+        },
+        {
+          "id": 1120,
+          "name": "residential",
+          "tag_id": 40
+        }
+      ]
+    },
+    {
+      "id": 567,
+      "place_id": 559,
+      "map_id": 14,
+      "created_at": "2019-04-06T21:32:17.726Z",
+      "updated_at": "2019-04-06T21:32:17.726Z",
+      "position": 34,
+      "name": "Levels Barbershop",
+      "place": {
+        "id": 559,
+        "google_place_id": "ChIJRdawkg_2wokRRzSGUlZ8BoM",
+        "name": "Levels Barbershop",
+        "address": "5 E 115th St, New York, NY 10029, USA",
+        "description": null,
+        "created_at": "2019-04-06T21:32:17.717Z",
+        "updated_at": "2019-04-06T21:32:17.717Z",
+        "lat": "40.7998312",
+        "lng": "-73.94629650000002"
+      },
+      "tagged_pins": [
+        {
+          "id": 1121,
+          "name": "Luke Cage",
+          "tag_id": 138
+        },
+        {
+          "id": 1122,
+          "name": "beauty",
+          "tag_id": 77
+        }
+      ]
+    },
+    {
+      "id": 568,
+      "place_id": 560,
+      "map_id": 14,
+      "created_at": "2019-04-06T21:32:50.792Z",
+      "updated_at": "2019-04-06T21:32:55.680Z",
+      "position": 35,
+      "name": "19 Gramercy Park South \u0026 Gramercy Park",
+      "place": {
+        "id": 560,
+        "google_place_id": "ChIJr6B5s6FZwokRKipQ3vmbbQ4",
+        "name": "19 Gramercy Park S",
+        "address": "19 Gramercy Park S, New York, NY 10003, USA",
+        "description": null,
+        "created_at": "2019-04-06T21:32:50.778Z",
+        "updated_at": "2019-04-06T21:32:50.778Z",
+        "lat": "40.7373447",
+        "lng": "-73.98610930000001"
+      },
+      "tagged_pins": [
+        {
+          "id": 1123,
+          "name": "Iron Fist",
+          "tag_id": 139
+        },
+        {
+          "id": 1124,
+          "name": "park",
+          "tag_id": 19
+        },
+        {
+          "id": 1125,
+          "name": "architecture",
+          "tag_id": 72
+        }
+      ]
+    },
+    {
+      "id": 569,
+      "place_id": 561,
+      "map_id": 14,
+      "created_at": "2019-04-06T21:33:07.480Z",
+      "updated_at": "2019-04-06T21:33:07.480Z",
+      "position": 36,
+      "name": "General Electric Building",
+      "place": {
+        "id": 561,
+        "google_place_id": "ChIJhaY5wfxYwokRqW_NgqCDkFE",
+        "name": "General Electric Building",
+        "address": "General Electric Building, 570 Lexington Ave, New York, NY 10022, USA",
+        "description": null,
+        "created_at": "2019-04-06T21:33:07.469Z",
+        "updated_at": "2019-04-06T21:33:07.469Z",
+        "lat": "40.7571519",
+        "lng": "-73.9726033"
+      },
+      "tagged_pins": [
+        {
+          "id": 1126,
+          "name": "Iron Fist",
+          "tag_id": 139
+        },
+        {
+          "id": 1127,
+          "name": "architecture",
+          "tag_id": 72
+        }
+      ]
+    },
+    {
+      "id": 570,
+      "place_id": 562,
+      "map_id": 14,
+      "created_at": "2019-04-06T21:33:19.337Z",
+      "updated_at": "2019-04-06T21:33:19.337Z",
+      "position": 37,
+      "name": "Flatiron Building",
+      "place": {
+        "id": 562,
+        "google_place_id": "ChIJZx8c96NZwokRJklw7SVhKt4",
+        "name": "Flatiron Building",
+        "address": "175 5th Ave, New York, NY 10010, USA",
+        "description": null,
+        "created_at": "2019-04-06T21:33:19.326Z",
+        "updated_at": "2019-04-06T21:33:19.326Z",
+        "lat": "40.7410605",
+        "lng": "-73.9896986"
+      },
+      "tagged_pins": [
+        {
+          "id": 1128,
+          "name": "Iron Fist",
+          "tag_id": 139
+        },
+        {
+          "id": 1130,
+          "name": "must-see",
+          "tag_id": 16
+        },
+        {
+          "id": 1131,
+          "name": "architecture",
+          "tag_id": 72
+        }
+      ]
+    }
+  ]
+}

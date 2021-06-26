@@ -1,0 +1,1557 @@
+{
+  "id": 13,
+  "title": "Cops and criminals",
+  "subtitle": "The gritty side of New York City",
+  "markers": [
+    {
+      "id": 488,
+      "place_id": 482,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:32:36.189Z",
+      "updated_at": "2019-04-06T20:32:46.537Z",
+      "position": 1,
+      "name": "Silver Screen Studios \u0026 Pier 61-62",
+      "place": {
+        "id": 482,
+        "google_place_id": "Ei42MiBDaGVsc2VhIFBpZXJzICMzMDAsIE5ldyBZb3JrLCBOWSAxMDAxMSwgVVNBIh8aHQoWChQKEglT4s7Ex1nCiREDOIxrnwJrgxIDMzAw",
+        "name": "62 Chelsea Piers #300",
+        "address": "62 Chelsea Piers #300, New York, NY 10011, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:32:36.181Z",
+        "updated_at": "2019-04-06T20:32:36.181Z",
+        "lat": "40.7482326",
+        "lng": "-74.00826710000001"
+      },
+      "tagged_pins": [
+        {
+          "id": 924,
+          "name": "Law \u0026 Order",
+          "tag_id": 104
+        },
+        {
+          "id": 925,
+          "name": "studio",
+          "tag_id": 102
+        }
+      ]
+    },
+    {
+      "id": 489,
+      "place_id": 483,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:32:53.794Z",
+      "updated_at": "2019-04-06T20:32:53.794Z",
+      "position": 2,
+      "name": "Tweed Courthouse",
+      "place": {
+        "id": 483,
+        "google_place_id": "ChIJTwkODyJawokRPcjWBDNGv6Y",
+        "name": "Tweed Courthouse",
+        "address": "52 Chambers St, New York, NY 10007, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:32:53.784Z",
+        "updated_at": "2019-04-06T20:32:53.784Z",
+        "lat": "40.71341899999999",
+        "lng": "-74.00559099999998"
+      },
+      "tagged_pins": [
+        {
+          "id": 926,
+          "name": "Law \u0026 Order",
+          "tag_id": 104
+        },
+        {
+          "id": 927,
+          "name": "architecture",
+          "tag_id": 72
+        },
+        {
+          "id": 1094,
+          "name": "law enforcement",
+          "tag_id": 130
+        }
+      ]
+    },
+    {
+      "id": 490,
+      "place_id": 484,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:33:05.779Z",
+      "updated_at": "2019-04-06T20:33:10.383Z",
+      "position": 3,
+      "name": "New York County Courthouse",
+      "place": {
+        "id": 484,
+        "google_place_id": "ChIJm3xQQCFawokRm5vPKvTuCmY",
+        "name": "New York County Supreme Court",
+        "address": "60 Centre St, New York, NY 10007, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:33:05.769Z",
+        "updated_at": "2019-04-06T20:33:05.769Z",
+        "lat": "40.7144062",
+        "lng": "-74.0020156"
+      },
+      "tagged_pins": [
+        {
+          "id": 928,
+          "name": "Law \u0026 Order",
+          "tag_id": 104
+        },
+        {
+          "id": 929,
+          "name": "architecture",
+          "tag_id": 72
+        },
+        {
+          "id": 1095,
+          "name": "law enforcement",
+          "tag_id": 130
+        }
+      ]
+    },
+    {
+      "id": 491,
+      "place_id": 485,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:33:24.492Z",
+      "updated_at": "2019-04-06T20:33:24.492Z",
+      "position": 4,
+      "name": "Foley Square",
+      "place": {
+        "id": 485,
+        "google_place_id": "ChIJtwwiciFawokRHE2X24SK_s0",
+        "name": "Foley Square",
+        "address": "Lafayette Street Worth Street, Centre St, New York, NY 10013, United States",
+        "description": null,
+        "created_at": "2019-04-06T20:33:24.483Z",
+        "updated_at": "2019-04-06T20:33:24.483Z",
+        "lat": "40.7143512",
+        "lng": "-74.0029927"
+      },
+      "tagged_pins": [
+        {
+          "id": 930,
+          "name": "Law \u0026 Order",
+          "tag_id": 104
+        },
+        {
+          "id": 931,
+          "name": "park",
+          "tag_id": 19
+        }
+      ]
+    },
+    {
+      "id": 492,
+      "place_id": 486,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:33:42.953Z",
+      "updated_at": "2019-04-06T20:33:49.335Z",
+      "position": 5,
+      "name": "One Police Plaza",
+      "place": {
+        "id": 486,
+        "google_place_id": "ChIJYcHoGyRawokR9rSZ9FTdFMk",
+        "name": "New York City Police Department",
+        "address": "1 Police Plaza Path, New York, NY 10007, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:33:42.945Z",
+        "updated_at": "2019-04-06T20:33:42.945Z",
+        "lat": "40.7121101",
+        "lng": "-74.00188639999999"
+      },
+      "tagged_pins": [
+        {
+          "id": 932,
+          "name": "Law \u0026 Order",
+          "tag_id": 104
+        },
+        {
+          "id": 933,
+          "name": "architecture",
+          "tag_id": 72
+        },
+        {
+          "id": 1096,
+          "name": "law enforcement",
+          "tag_id": 130
+        }
+      ]
+    },
+    {
+      "id": 493,
+      "place_id": 487,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:34:06.605Z",
+      "updated_at": "2019-04-06T20:34:06.605Z",
+      "position": 6,
+      "name": "New York City Hall",
+      "place": {
+        "id": 487,
+        "google_place_id": "ChIJs--MqP1YwokRBwAhjXWIHn8",
+        "name": "New York City Hall",
+        "address": "City Hall Park, New York, NY 10007, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:34:06.597Z",
+        "updated_at": "2019-04-06T20:34:06.597Z",
+        "lat": "40.7127744",
+        "lng": "-74.006059"
+      },
+      "tagged_pins": [
+        {
+          "id": 936,
+          "name": "Spin City",
+          "tag_id": 105
+        },
+        {
+          "id": 937,
+          "name": "architecture",
+          "tag_id": 72
+        },
+        {
+          "id": 1726,
+          "name": "law enforcement",
+          "tag_id": 130
+        }
+      ]
+    },
+    {
+      "id": 494,
+      "place_id": 488,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:34:22.230Z",
+      "updated_at": "2019-04-06T20:34:27.944Z",
+      "position": 7,
+      "name": "Sofitel",
+      "place": {
+        "id": 488,
+        "google_place_id": "ChIJ5Zpl7_9YwokRFePhP7971nc",
+        "name": "Sofitel New York",
+        "address": "45 W 44th St, New York, NY 10036, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:34:22.221Z",
+        "updated_at": "2019-04-06T20:34:22.221Z",
+        "lat": "40.7556763",
+        "lng": "-73.98187229999996"
+      },
+      "tagged_pins": [
+        {
+          "id": 938,
+          "name": "Law \u0026 Order: SVU",
+          "tag_id": 106
+        },
+        {
+          "id": 939,
+          "name": "hotel",
+          "tag_id": 21
+        }
+      ]
+    },
+    {
+      "id": 495,
+      "place_id": 489,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:34:38.855Z",
+      "updated_at": "2019-04-06T20:34:38.855Z",
+      "position": 8,
+      "name": "Fort Tryon Park",
+      "place": {
+        "id": 489,
+        "google_place_id": "ChIJTZ18cAH0wokR1HfVR86mzEA",
+        "name": "Fort Tryon Park",
+        "address": "Riverside, Dr To Broadway, New York, NY 10040, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:34:38.846Z",
+        "updated_at": "2019-04-06T20:34:38.846Z",
+        "lat": "40.8625608",
+        "lng": "-73.93129950000002"
+      },
+      "tagged_pins": [
+        {
+          "id": 940,
+          "name": "Law \u0026 Order: SVU",
+          "tag_id": 106
+        },
+        {
+          "id": 941,
+          "name": "park",
+          "tag_id": 19
+        }
+      ]
+    },
+    {
+      "id": 496,
+      "place_id": 490,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:34:55.749Z",
+      "updated_at": "2019-04-06T20:34:55.749Z",
+      "position": 9,
+      "name": "Book Culture",
+      "place": {
+        "id": 490,
+        "google_place_id": "ChIJf-PweTz2wokRfJf5uNQCzrk",
+        "name": "Book Culture",
+        "address": "536 W 112th St, New York, NY 10025, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:34:55.736Z",
+        "updated_at": "2019-04-06T20:34:55.736Z",
+        "lat": "40.804991",
+        "lng": "-73.96497499999998"
+      },
+      "tagged_pins": [
+        {
+          "id": 942,
+          "name": "Law \u0026 Order: SVU",
+          "tag_id": 106
+        },
+        {
+          "id": 943,
+          "name": "bookstore",
+          "tag_id": 70
+        }
+      ]
+    },
+    {
+      "id": 497,
+      "place_id": 491,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:35:08.532Z",
+      "updated_at": "2019-04-06T20:35:08.532Z",
+      "position": 10,
+      "name": "Cultural Services of the French Embassy",
+      "place": {
+        "id": 491,
+        "google_place_id": "ChIJJ_JiGJRYwokRC2GPy5jSJLc",
+        "name": "Cultural Services of the French Embassy",
+        "address": "972 5th Ave, New York, NY 10075, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:35:08.523Z",
+        "updated_at": "2019-04-06T20:35:08.523Z",
+        "lat": "40.7765759",
+        "lng": "-73.96376659999999"
+      },
+      "tagged_pins": [
+        {
+          "id": 944,
+          "name": "Law \u0026 Order: SVU",
+          "tag_id": 106
+        },
+        {
+          "id": 945,
+          "name": "architecture",
+          "tag_id": 72
+        }
+      ]
+    },
+    {
+      "id": 498,
+      "place_id": 492,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:35:23.674Z",
+      "updated_at": "2019-04-06T20:35:29.819Z",
+      "position": 11,
+      "name": "Ninth Precinct",
+      "place": {
+        "id": 492,
+        "google_place_id": "ChIJzVYrX3dZwokRA5yDIBJx1sg",
+        "name": "New York City Police Department - 9th Precinct",
+        "address": "321 E 5th St, New York, NY 10003, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:35:23.665Z",
+        "updated_at": "2019-04-06T20:35:23.665Z",
+        "lat": "40.7265384",
+        "lng": "-73.98782"
+      },
+      "tagged_pins": [
+        {
+          "id": 946,
+          "name": "NYPD Blue",
+          "tag_id": 107
+        },
+        {
+          "id": 1037,
+          "name": "law enforcement",
+          "tag_id": 130
+        }
+      ]
+    },
+    {
+      "id": 499,
+      "place_id": 493,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:35:40.270Z",
+      "updated_at": "2019-04-06T20:35:40.270Z",
+      "position": 12,
+      "name": "Tompkins Square Park",
+      "place": {
+        "id": 493,
+        "google_place_id": "ChIJgTDll51ZwokRVjN7KXztwXY",
+        "name": "Tompkins Square Park",
+        "address": "E 10th St, New York, NY 10009, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:35:40.258Z",
+        "updated_at": "2019-04-06T20:35:40.258Z",
+        "lat": "40.72642949999999",
+        "lng": "-73.98178410000003"
+      },
+      "tagged_pins": [
+        {
+          "id": 948,
+          "name": "NYPD Blue",
+          "tag_id": 107
+        },
+        {
+          "id": 949,
+          "name": "park",
+          "tag_id": 19
+        }
+      ]
+    },
+    {
+      "id": 500,
+      "place_id": 494,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:35:49.822Z",
+      "updated_at": "2019-04-06T20:35:54.244Z",
+      "position": 13,
+      "name": "425 Broome Street",
+      "place": {
+        "id": 494,
+        "google_place_id": "ChIJX9ZTbYlZwokRbu1Wt2SuTtQ",
+        "name": "425 Broome St",
+        "address": "425 Broome St, New York, NY 10013, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:35:49.812Z",
+        "updated_at": "2019-04-06T20:35:49.812Z",
+        "lat": "40.7212401",
+        "lng": "-73.99900589999999"
+      },
+      "tagged_pins": [
+        {
+          "id": 950,
+          "name": "Castle",
+          "tag_id": 109
+        },
+        {
+          "id": 951,
+          "name": "residential",
+          "tag_id": 40
+        }
+      ]
+    },
+    {
+      "id": 501,
+      "place_id": 495,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:36:05.806Z",
+      "updated_at": "2019-04-06T20:36:12.011Z",
+      "position": 14,
+      "name": "43 E 3rd Street",
+      "place": {
+        "id": 495,
+        "google_place_id": "EiQ0MyBFIDNyZCBTdCwgTmV3IFlvcmssIE5ZIDEwMDAzLCBVU0EiGhIYChQKEgm7isRfg1nCiRGM1N05PRY10BAr",
+        "name": "43 E 3rd St",
+        "address": "43 E 3rd St, New York, NY 10003, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:36:05.797Z",
+        "updated_at": "2019-04-06T20:36:05.797Z",
+        "lat": "40.7255879",
+        "lng": "-73.989893"
+      },
+      "tagged_pins": [
+        {
+          "id": 952,
+          "name": "Castle",
+          "tag_id": 109
+        },
+        {
+          "id": 954,
+          "name": "residential",
+          "tag_id": 40
+        }
+      ]
+    },
+    {
+      "id": 502,
+      "place_id": 496,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:36:24.574Z",
+      "updated_at": "2019-04-06T20:36:29.007Z",
+      "position": 15,
+      "name": "140 Franklin Street",
+      "place": {
+        "id": 496,
+        "google_place_id": "ChIJidPiWfVZwokRqRi92RBMbfk",
+        "name": "140 Franklin St",
+        "address": "140 Franklin St, New York, NY 10013, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:36:24.565Z",
+        "updated_at": "2019-04-06T20:36:24.565Z",
+        "lat": "40.7193658",
+        "lng": "-74.00722059999998"
+      },
+      "tagged_pins": [
+        {
+          "id": 955,
+          "name": "Castle",
+          "tag_id": 109
+        },
+        {
+          "id": 956,
+          "name": "residential",
+          "tag_id": 40
+        }
+      ]
+    },
+    {
+      "id": 503,
+      "place_id": 497,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:36:42.110Z",
+      "updated_at": "2019-04-06T20:36:42.110Z",
+      "position": 16,
+      "name": "McSorley's Old Ale House",
+      "place": {
+        "id": 497,
+        "google_place_id": "ChIJGdCSd5tZwokRfYvMyzO7qtE",
+        "name": "McSorley's Old Ale House",
+        "address": "15 E 7th St, New York, NY 10003, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:36:42.099Z",
+        "updated_at": "2019-04-06T20:36:42.099Z",
+        "lat": "40.7287614",
+        "lng": "-73.9896943"
+      },
+      "tagged_pins": [
+        {
+          "id": 957,
+          "name": "Copper",
+          "tag_id": 111
+        },
+        {
+          "id": 958,
+          "name": "bar",
+          "tag_id": 27
+        },
+        {
+          "id": 959,
+          "name": "must-see",
+          "tag_id": 16
+        }
+      ]
+    },
+    {
+      "id": 504,
+      "place_id": 498,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:36:54.323Z",
+      "updated_at": "2019-04-06T20:37:02.260Z",
+      "position": 17,
+      "name": "Five Points",
+      "place": {
+        "id": 498,
+        "google_place_id": "Ei1Xb3J0aCBTdCAmIEJheHRlciBTdCwgTmV3IFlvcmssIE5ZIDEwMDA3LCBVU0EiZiJkChQKEgm9yoXKJlrCiRGrnaWIvlDfvRIUChIJvcqFyiZawokRq52liL5Q370aFAoSCaPbVwAhWsKJEVZCqrO7bJT3GhQKEglH1d1DJ1rCiREZBPkENoU7EiIKDSqFRBgVWmzk0w",
+        "name": "Worth St \u0026 Baxter St",
+        "address": "Worth St \u0026 Baxter St, New York, NY 10007, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:36:54.313Z",
+        "updated_at": "2019-04-06T20:36:54.313Z",
+        "lat": "40.7143722",
+        "lng": "-74.00047740000002"
+      },
+      "tagged_pins": [
+        {
+          "id": 960,
+          "name": "Copper",
+          "tag_id": 111
+        },
+        {
+          "id": 962,
+          "name": "residential",
+          "tag_id": 40
+        }
+      ]
+    },
+    {
+      "id": 505,
+      "place_id": 122,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:37:12.722Z",
+      "updated_at": "2019-04-06T20:37:12.722Z",
+      "position": 18,
+      "name": "St. Patrick's Cathedral",
+      "place": {
+        "id": 122,
+        "google_place_id": "ChIJUW4vEPxYwokRW6o24DU0YIg",
+        "name": "St. Patrick's Cathedral",
+        "address": "5th Ave, New York, NY 10022, USA",
+        "description": null,
+        "created_at": "2019-01-10T16:00:58.154Z",
+        "updated_at": "2019-01-10T16:00:58.154Z",
+        "lat": "40.7584653",
+        "lng": "-73.9759927"
+      },
+      "tagged_pins": [
+        {
+          "id": 963,
+          "name": "Copper",
+          "tag_id": 111
+        },
+        {
+          "id": 964,
+          "name": "architecture",
+          "tag_id": 72
+        },
+        {
+          "id": 965,
+          "name": "religious",
+          "tag_id": 55
+        }
+      ]
+    },
+    {
+      "id": 506,
+      "place_id": 499,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:37:30.110Z",
+      "updated_at": "2019-04-06T20:37:38.078Z",
+      "position": 19,
+      "name": "Russian Tea Room",
+      "place": {
+        "id": 499,
+        "google_place_id": "ChIJ_816e_dYwokROMvaQpsyemk",
+        "name": "The Russian Tea Room",
+        "address": "150 W 57th St, New York, NY 10019, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:37:30.099Z",
+        "updated_at": "2019-04-06T20:37:30.099Z",
+        "lat": "40.7649476",
+        "lng": "-73.97943370000002"
+      },
+      "tagged_pins": [
+        {
+          "id": 966,
+          "name": "Public Morals",
+          "tag_id": 112
+        },
+        {
+          "id": 967,
+          "name": "restaurant",
+          "tag_id": 3
+        }
+      ]
+    },
+    {
+      "id": 507,
+      "place_id": 500,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:37:50.867Z",
+      "updated_at": "2019-04-06T20:37:50.867Z",
+      "position": 20,
+      "name": "Square Diner",
+      "place": {
+        "id": 500,
+        "google_place_id": "ChIJ8XAz5R9awokR_HB5DaCuxIs",
+        "name": "Square Diner",
+        "address": "33 Leonard St, New York, NY 10013, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:37:50.858Z",
+        "updated_at": "2019-04-06T20:37:50.858Z",
+        "lat": "40.718485",
+        "lng": "-74.00725299999999"
+      },
+      "tagged_pins": [
+        {
+          "id": 968,
+          "name": "Public Morals",
+          "tag_id": 112
+        },
+        {
+          "id": 969,
+          "name": "restaurant",
+          "tag_id": 3
+        },
+        {
+          "id": 970,
+          "name": "diner",
+          "tag_id": 68
+        }
+      ]
+    },
+    {
+      "id": 508,
+      "place_id": 501,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:38:05.104Z",
+      "updated_at": "2019-04-06T20:38:05.104Z",
+      "position": 21,
+      "name": "Corner Bistro",
+      "place": {
+        "id": 501,
+        "google_place_id": "ChIJ0_ZHCiRZwokRUydW_tjoTs4",
+        "name": "Corner Bistro",
+        "address": "331 West 4th Street, New York, NY 10014, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:38:05.095Z",
+        "updated_at": "2019-04-06T20:38:05.095Z",
+        "lat": "40.7380481",
+        "lng": "-74.0037408"
+      },
+      "tagged_pins": [
+        {
+          "id": 971,
+          "name": "Public Morals",
+          "tag_id": 112
+        },
+        {
+          "id": 972,
+          "name": "restaurant",
+          "tag_id": 3
+        },
+        {
+          "id": 973,
+          "name": "diner",
+          "tag_id": 68
+        }
+      ]
+    },
+    {
+      "id": 509,
+      "place_id": 502,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:38:39.194Z",
+      "updated_at": "2019-04-06T20:38:39.194Z",
+      "position": 22,
+      "name": "John's of 12th Street",
+      "place": {
+        "id": 502,
+        "google_place_id": "ChIJRzMU1p1ZwokRU_iO7sqY2Mk",
+        "name": "John's of 12th Street",
+        "address": "302 E 12th St, New York, NY 10003, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:38:39.185Z",
+        "updated_at": "2019-04-06T20:38:39.185Z",
+        "lat": "40.7306825",
+        "lng": "-73.98550060000002"
+      },
+      "tagged_pins": [
+        {
+          "id": 974,
+          "name": "Boardwalk Empire",
+          "tag_id": 113
+        },
+        {
+          "id": 975,
+          "name": "restaurant",
+          "tag_id": 3
+        }
+      ]
+    },
+    {
+      "id": 510,
+      "place_id": 503,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:38:51.883Z",
+      "updated_at": "2019-04-06T20:38:58.122Z",
+      "position": 23,
+      "name": "Il Cortile",
+      "place": {
+        "id": 503,
+        "google_place_id": "ChIJOQ8A1IlZwokRd4ZMRvOMQ3o",
+        "name": "IL Cortile",
+        "address": "4603, 125 Mulberry St, New York, NY 10013, United States",
+        "description": null,
+        "created_at": "2019-04-06T20:38:51.874Z",
+        "updated_at": "2019-04-06T20:38:51.874Z",
+        "lat": "40.7180002",
+        "lng": "-73.99826769999999"
+      },
+      "tagged_pins": [
+        {
+          "id": 976,
+          "name": "The Sopranos",
+          "tag_id": 114
+        },
+        {
+          "id": 977,
+          "name": "restaurant",
+          "tag_id": 3
+        }
+      ]
+    },
+    {
+      "id": 511,
+      "place_id": 504,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:39:30.449Z",
+      "updated_at": "2019-04-06T20:39:35.290Z",
+      "position": 24,
+      "name": "Central Park \u0026 Naumburg Bandshell \u0026 Bethesda Fountain",
+      "place": {
+        "id": 504,
+        "google_place_id": "ChIJvXn8Vu1YwokRXuwoU7tOMsM",
+        "name": "Naumburg Bandshell",
+        "address": "Terrace Dr. Near, W 72nd St, New York, NY 10019, United States",
+        "description": null,
+        "created_at": "2019-04-06T20:39:30.440Z",
+        "updated_at": "2019-04-06T20:39:30.440Z",
+        "lat": "40.7726834",
+        "lng": "-73.9710283"
+      },
+      "tagged_pins": [
+        {
+          "id": 978,
+          "name": "White Collar",
+          "tag_id": 115
+        },
+        {
+          "id": 979,
+          "name": "park",
+          "tag_id": 19
+        },
+        {
+          "id": 980,
+          "name": "architecture",
+          "tag_id": 72
+        },
+        {
+          "id": 981,
+          "name": "must-see",
+          "tag_id": 16
+        },
+        {
+          "id": 982,
+          "name": "music",
+          "tag_id": 31
+        }
+      ]
+    },
+    {
+      "id": 512,
+      "place_id": 505,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:39:45.631Z",
+      "updated_at": "2019-04-06T20:39:45.631Z",
+      "position": 25,
+      "name": "Schinasi Mansion",
+      "place": {
+        "id": 505,
+        "google_place_id": "ChIJHafVzjr2wokRkVToTIRB7Tg",
+        "name": "Schinasi Mansion",
+        "address": "Schinasi Mansion, New York, NY 10025, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:39:45.621Z",
+        "updated_at": "2019-04-06T20:39:45.621Z",
+        "lat": "40.803",
+        "lng": "-73.96940000000001"
+      },
+      "tagged_pins": [
+        {
+          "id": 983,
+          "name": "White Collar",
+          "tag_id": 115
+        },
+        {
+          "id": 984,
+          "name": "residential",
+          "tag_id": 40
+        },
+        {
+          "id": 985,
+          "name": "architecture",
+          "tag_id": 72
+        }
+      ]
+    },
+    {
+      "id": 513,
+      "place_id": 506,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:40:03.468Z",
+      "updated_at": "2019-04-06T20:40:03.468Z",
+      "position": 26,
+      "name": "Times Square",
+      "place": {
+        "id": 506,
+        "google_place_id": "ChIJmQJIxlVYwokRLgeuocVOGVU",
+        "name": "Times Square",
+        "address": "Manhattan, NY 10036, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:40:03.460Z",
+        "updated_at": "2019-04-06T20:40:03.460Z",
+        "lat": "40.758895",
+        "lng": "-73.98513100000002"
+      },
+      "tagged_pins": [
+        {
+          "id": 986,
+          "name": "Person of Interest",
+          "tag_id": 116
+        },
+        {
+          "id": 987,
+          "name": "shopping",
+          "tag_id": 13
+        },
+        {
+          "id": 988,
+          "name": "must-see",
+          "tag_id": 16
+        },
+        {
+          "id": 992,
+          "name": "architecture",
+          "tag_id": 72
+        }
+      ]
+    },
+    {
+      "id": 514,
+      "place_id": 507,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:40:20.126Z",
+      "updated_at": "2019-04-06T20:40:30.595Z",
+      "position": 27,
+      "name": "13 W 121st Street",
+      "place": {
+        "id": 507,
+        "google_place_id": "ChIJA9Ov6Q32wokR05yFbT5zsBw",
+        "name": "13 W 121st St",
+        "address": "13 W 121st St, New York, NY 10027, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:40:20.117Z",
+        "updated_at": "2019-04-06T20:40:20.117Z",
+        "lat": "40.8050105",
+        "lng": "-73.94641810000002"
+      },
+      "tagged_pins": [
+        {
+          "id": 989,
+          "name": "Elementary",
+          "tag_id": 117
+        },
+        {
+          "id": 990,
+          "name": "residential",
+          "tag_id": 40
+        },
+        {
+          "id": 991,
+          "name": "architecture",
+          "tag_id": 72
+        }
+      ]
+    },
+    {
+      "id": 515,
+      "place_id": 508,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:42:17.177Z",
+      "updated_at": "2019-04-06T20:42:17.177Z",
+      "position": 28,
+      "name": "Fort Greene Park",
+      "place": {
+        "id": 508,
+        "google_place_id": "ChIJvf6v7bZbwokRUO0-u24i73g",
+        "name": "Fort Greene Park",
+        "address": "100 Washington Park, Brooklyn, NY 11205, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:42:17.168Z",
+        "updated_at": "2019-04-06T20:42:17.168Z",
+        "lat": "40.6915133",
+        "lng": "-73.97522780000003"
+      },
+      "tagged_pins": [
+        {
+          "id": 993,
+          "name": "Taxi Brooklyn",
+          "tag_id": 118
+        },
+        {
+          "id": 994,
+          "name": "park",
+          "tag_id": 19
+        }
+      ]
+    },
+    {
+      "id": 516,
+      "place_id": 509,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:42:28.524Z",
+      "updated_at": "2019-04-06T20:42:28.524Z",
+      "position": 29,
+      "name": "Brooklyn Bridge",
+      "place": {
+        "id": 509,
+        "google_place_id": "ChIJK3vOQyNawokRXEa9errdJiU",
+        "name": "Brooklyn Bridge",
+        "address": "Brooklyn Bridge, New York, NY 10038, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:42:28.516Z",
+        "updated_at": "2019-04-06T20:42:28.516Z",
+        "lat": "40.7060855",
+        "lng": "-73.99686429999997"
+      },
+      "tagged_pins": [
+        {
+          "id": 995,
+          "name": "Brooklyn South",
+          "tag_id": 119
+        },
+        {
+          "id": 996,
+          "name": "architecture",
+          "tag_id": 72
+        },
+        {
+          "id": 997,
+          "name": "must-see",
+          "tag_id": 16
+        },
+        {
+          "id": 998,
+          "name": "vista",
+          "tag_id": 75
+        }
+      ]
+    },
+    {
+      "id": 517,
+      "place_id": 510,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:42:45.561Z",
+      "updated_at": "2019-04-06T20:42:57.204Z",
+      "position": 30,
+      "name": "Brooklyn Bridge Park \u0026 Jane's Carousel",
+      "place": {
+        "id": 510,
+        "google_place_id": "ChIJU9mVHzFawokRcNNO_Su8zGM",
+        "name": "Jane's Carousel",
+        "address": "Old Dock St, Brooklyn, NY 11201, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:42:45.553Z",
+        "updated_at": "2019-04-06T20:42:45.553Z",
+        "lat": "40.7045544",
+        "lng": "-73.99235809999999"
+      },
+      "tagged_pins": [
+        {
+          "id": 999,
+          "name": "Mysteries of Laura",
+          "tag_id": 120
+        },
+        {
+          "id": 1000,
+          "name": "park",
+          "tag_id": 19
+        },
+        {
+          "id": 1001,
+          "name": "must-see",
+          "tag_id": 16
+        },
+        {
+          "id": 1002,
+          "name": "vista",
+          "tag_id": 75
+        }
+      ]
+    },
+    {
+      "id": 518,
+      "place_id": 511,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:43:11.925Z",
+      "updated_at": "2019-04-06T20:43:11.925Z",
+      "position": 31,
+      "name": "78th Precinct",
+      "place": {
+        "id": 511,
+        "google_place_id": "ChIJi-Lo2K5bwokRE_lo9O2Qh9o",
+        "name": "78th Precinct",
+        "address": "65 6th Ave, Brooklyn, NY 11217, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:43:11.915Z",
+        "updated_at": "2019-04-06T20:43:11.915Z",
+        "lat": "40.68096070000001",
+        "lng": "-73.9744435"
+      },
+      "tagged_pins": [
+        {
+          "id": 1003,
+          "name": "The Mysteries of Laura",
+          "tag_id": 121
+        },
+        {
+          "id": 1038,
+          "name": "law enforcement",
+          "tag_id": 130
+        }
+      ]
+    },
+    {
+      "id": 519,
+      "place_id": 512,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:43:27.847Z",
+      "updated_at": "2019-04-06T20:43:32.729Z",
+      "position": 32,
+      "name": "683 Dean Street",
+      "place": {
+        "id": 512,
+        "google_place_id": "ChIJ2ZiQQ6RbwokRp0L4JEh5Nak",
+        "name": "683 Dean St",
+        "address": "683 Dean St, Brooklyn, NY 11238, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:43:27.838Z",
+        "updated_at": "2019-04-06T20:43:27.838Z",
+        "lat": "40.6801958",
+        "lng": "-73.96707040000001"
+      },
+      "tagged_pins": [
+        {
+          "id": 1005,
+          "name": "Life on Mars",
+          "tag_id": 122
+        },
+        {
+          "id": 1006,
+          "name": "residential",
+          "tag_id": 40
+        }
+      ]
+    },
+    {
+      "id": 520,
+      "place_id": 513,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:43:53.875Z",
+      "updated_at": "2019-04-06T20:43:53.875Z",
+      "position": 33,
+      "name": "Mike's Donuts",
+      "place": {
+        "id": 513,
+        "google_place_id": "ChIJ3V1EWFBFwokRF7eRn-IAj-E",
+        "name": "Mike's Donuts",
+        "address": "6822 5th Ave, Brooklyn, NY 11220, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:43:53.865Z",
+        "updated_at": "2019-04-06T20:43:53.865Z",
+        "lat": "40.6337396",
+        "lng": "-74.02111289999999"
+      },
+      "tagged_pins": [
+        {
+          "id": 1007,
+          "name": "Shades of Blue",
+          "tag_id": 123
+        },
+        {
+          "id": 1008,
+          "name": "food on the go",
+          "tag_id": 24
+        }
+      ]
+    },
+    {
+      "id": 521,
+      "place_id": 514,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:44:08.796Z",
+      "updated_at": "2019-04-06T20:44:13.924Z",
+      "position": 34,
+      "name": "Peter Pan Donut",
+      "place": {
+        "id": 514,
+        "google_place_id": "ChIJfR8jHkRZwokRgllkzTBqhlM",
+        "name": "Peter Pan Donut \u0026 Pastry Shop",
+        "address": "727 Manhattan Ave, Brooklyn, NY 11222, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:44:08.788Z",
+        "updated_at": "2019-04-06T20:44:08.788Z",
+        "lat": "40.72608340000001",
+        "lng": "-73.9523074"
+      },
+      "tagged_pins": [
+        {
+          "id": 1009,
+          "name": "Shades of Blue",
+          "tag_id": 123
+        },
+        {
+          "id": 1010,
+          "name": "food on the go",
+          "tag_id": 24
+        }
+      ]
+    },
+    {
+      "id": 522,
+      "place_id": 515,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:44:30.379Z",
+      "updated_at": "2019-04-06T20:44:30.379Z",
+      "position": 35,
+      "name": "Dough",
+      "place": {
+        "id": 515,
+        "google_place_id": "ChIJFQLWr5VbwokRnbtHDMFSBeE",
+        "name": "Dough",
+        "address": "448 Lafayette Ave, Brooklyn, NY 11238, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:44:30.369Z",
+        "updated_at": "2019-04-06T20:44:30.369Z",
+        "lat": "40.68906190000001",
+        "lng": "-73.95707770000001"
+      },
+      "tagged_pins": [
+        {
+          "id": 1011,
+          "name": "Shades of Blue",
+          "tag_id": 123
+        },
+        {
+          "id": 1012,
+          "name": "food on the go",
+          "tag_id": 24
+        }
+      ]
+    },
+    {
+      "id": 523,
+      "place_id": 516,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:44:46.551Z",
+      "updated_at": "2019-04-06T20:44:46.551Z",
+      "position": 36,
+      "name": "Doughnut Plant",
+      "place": {
+        "id": 516,
+        "google_place_id": "ChIJTW2Y265bwokRnDb5jZXdgLs",
+        "name": "Doughnut Plant",
+        "address": "245 Flatbush Ave, Brooklyn, NY 11217, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:44:46.539Z",
+        "updated_at": "2019-04-06T20:44:46.539Z",
+        "lat": "40.680644",
+        "lng": "-73.97471539999998"
+      },
+      "tagged_pins": [
+        {
+          "id": 1013,
+          "name": "Shades of Blue",
+          "tag_id": 123
+        },
+        {
+          "id": 1014,
+          "name": "food on the go",
+          "tag_id": 24
+        }
+      ]
+    },
+    {
+      "id": 524,
+      "place_id": 517,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:45:03.471Z",
+      "updated_at": "2019-04-06T20:45:03.471Z",
+      "position": 37,
+      "name": "Dun-Well Doughnuts",
+      "place": {
+        "id": 517,
+        "google_place_id": "ChIJWZYOXf5bwokRYN974KNTmAc",
+        "name": "Dun-Well Doughnuts",
+        "address": "222 Montrose Ave, Brooklyn, NY 11206, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:45:03.462Z",
+        "updated_at": "2019-04-06T20:45:03.462Z",
+        "lat": "40.707365",
+        "lng": "-73.94025629999999"
+      },
+      "tagged_pins": [
+        {
+          "id": 1015,
+          "name": "Shades of Blue",
+          "tag_id": 123
+        },
+        {
+          "id": 1016,
+          "name": "food on the go",
+          "tag_id": 24
+        }
+      ]
+    },
+    {
+      "id": 525,
+      "place_id": 518,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:45:17.171Z",
+      "updated_at": "2019-04-06T20:45:17.171Z",
+      "position": 38,
+      "name": "The Bell House",
+      "place": {
+        "id": 518,
+        "google_place_id": "ChIJybXFCvlawokRoXw_e6VhLqI",
+        "name": "The Bell House",
+        "address": "149 7th St, Brooklyn, NY 11215, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:45:17.162Z",
+        "updated_at": "2019-04-06T20:45:17.162Z",
+        "lat": "40.67351",
+        "lng": "-73.99163199999998"
+      },
+      "tagged_pins": [
+        {
+          "id": 1017,
+          "name": "New York Undercover",
+          "tag_id": 124
+        },
+        {
+          "id": 1018,
+          "name": "bar",
+          "tag_id": 27
+        },
+        {
+          "id": 1019,
+          "name": "music",
+          "tag_id": 31
+        }
+      ]
+    },
+    {
+      "id": 526,
+      "place_id": 519,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:45:28.722Z",
+      "updated_at": "2019-04-06T20:45:33.478Z",
+      "position": 39,
+      "name": "York College, CUNY",
+      "place": {
+        "id": 519,
+        "google_place_id": "ChIJN56bW9hgwokRo4EtMgWA4ys",
+        "name": "York College",
+        "address": "94-20 Guy R Brewer Blvd, Jamaica, NY 11451, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:45:28.712Z",
+        "updated_at": "2019-04-06T20:45:28.712Z",
+        "lat": "40.7010295",
+        "lng": "-73.79610179999997"
+      },
+      "tagged_pins": [
+        {
+          "id": 1020,
+          "name": "Power",
+          "tag_id": 125
+        },
+        {
+          "id": 1021,
+          "name": "school",
+          "tag_id": 29
+        }
+      ]
+    },
+    {
+      "id": 527,
+      "place_id": 520,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:45:46.170Z",
+      "updated_at": "2019-04-06T20:45:46.170Z",
+      "position": 40,
+      "name": "The Sparrow Tavern",
+      "place": {
+        "id": 520,
+        "google_place_id": "ChIJ7SYKCkNfwokRw1KdguBtwyM",
+        "name": "The Sparrow Tavern",
+        "address": "24-01 29th St, Astoria, NY 11102, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:45:46.158Z",
+        "updated_at": "2019-04-06T20:45:46.158Z",
+        "lat": "40.7728177",
+        "lng": "-73.91640339999998"
+      },
+      "tagged_pins": [
+        {
+          "id": 1022,
+          "name": "Orange Is the New Black",
+          "tag_id": 126
+        },
+        {
+          "id": 1023,
+          "name": "bar",
+          "tag_id": 27
+        }
+      ]
+    },
+    {
+      "id": 528,
+      "place_id": 521,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:45:57.188Z",
+      "updated_at": "2019-04-06T20:45:57.188Z",
+      "position": 41,
+      "name": "Rosario's",
+      "place": {
+        "id": 521,
+        "google_place_id": "ChIJM1Xz_mdfwokR8h7WmVgp4bw",
+        "name": "Rosario's",
+        "address": "22-55 31st St, Astoria, NY 11105, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:45:57.179Z",
+        "updated_at": "2019-04-06T20:45:57.179Z",
+        "lat": "40.7748968",
+        "lng": "-73.9119119"
+      },
+      "tagged_pins": [
+        {
+          "id": 1024,
+          "name": "Orange Is the New Black",
+          "tag_id": 126
+        },
+        {
+          "id": 1025,
+          "name": "restaurant",
+          "tag_id": 3
+        }
+      ]
+    },
+    {
+      "id": 529,
+      "place_id": 522,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:46:20.989Z",
+      "updated_at": "2019-04-06T20:46:20.989Z",
+      "position": 42,
+      "name": "Astoria Park",
+      "place": {
+        "id": 522,
+        "google_place_id": "ChIJhTKnW1pfwokRybwkvof4QWs",
+        "name": "Astoria Park",
+        "address": "19 19th St, Astoria, NY 11105, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:46:20.979Z",
+        "updated_at": "2019-04-06T20:46:20.979Z",
+        "lat": "40.7792459",
+        "lng": "-73.92296540000001"
+      },
+      "tagged_pins": [
+        {
+          "id": 1026,
+          "name": "Orange Is the New Black",
+          "tag_id": 126
+        },
+        {
+          "id": 1027,
+          "name": "park",
+          "tag_id": 19
+        },
+        {
+          "id": 1028,
+          "name": "vista",
+          "tag_id": 75
+        }
+      ]
+    },
+    {
+      "id": 530,
+      "place_id": 314,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:46:35.311Z",
+      "updated_at": "2019-04-06T20:46:40.438Z",
+      "position": 43,
+      "name": "Staten Island Ferry",
+      "place": {
+        "id": 314,
+        "google_place_id": "ChIJR_yfQhNawokRti4i3iRuWwY",
+        "name": "Whitehall Terminal",
+        "address": "4 Whitehall St, New York, NY 10004, USA",
+        "description": null,
+        "created_at": "2019-04-02T18:37:29.672Z",
+        "updated_at": "2019-04-02T18:37:29.672Z",
+        "lat": "40.7010863",
+        "lng": "-74.0131012"
+      },
+      "tagged_pins": [
+        {
+          "id": 1029,
+          "name": "Damages",
+          "tag_id": 127
+        },
+        {
+          "id": 1031,
+          "name": "vista",
+          "tag_id": 75
+        },
+        {
+          "id": 1032,
+          "name": "must-see",
+          "tag_id": 16
+        }
+      ]
+    },
+    {
+      "id": 531,
+      "place_id": 523,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:46:54.633Z",
+      "updated_at": "2019-04-06T20:46:54.633Z",
+      "position": 44,
+      "name": "Talk of the Town Tavern",
+      "place": {
+        "id": 523,
+        "google_place_id": "ChIJA2B91LlLwokR1Gz1K2cZCu8",
+        "name": "Talk of the Town Tavern",
+        "address": "24 Giffords Ln, Staten Island, NY 10308, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:46:54.623Z",
+        "updated_at": "2019-04-06T20:46:54.623Z",
+        "lat": "40.5513854",
+        "lng": "-74.15050869999999"
+      },
+      "tagged_pins": [
+        {
+          "id": 1033,
+          "name": "Damages",
+          "tag_id": 127
+        },
+        {
+          "id": 1035,
+          "name": "bar",
+          "tag_id": 27
+        }
+      ]
+    },
+    {
+      "id": 532,
+      "place_id": 524,
+      "map_id": 13,
+      "created_at": "2019-04-06T20:47:21.128Z",
+      "updated_at": "2019-04-06T20:47:40.463Z",
+      "position": 45,
+      "name": "Rikers Island",
+      "place": {
+        "id": 524,
+        "google_place_id": "ChIJ3SzJo3f1wokRs67B4Z8zGw0",
+        "name": "1616 Hazen St",
+        "address": "1616 Hazen St, East Elmhurst, NY 11370, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:47:21.119Z",
+        "updated_at": "2019-04-06T20:47:21.119Z",
+        "lat": "40.7921377",
+        "lng": "-73.88644669999996"
+      },
+      "tagged_pins": [
+        {
+          "id": 1036,
+          "name": "The Night Of",
+          "tag_id": 129
+        },
+        {
+          "id": 1039,
+          "name": "law enforcement",
+          "tag_id": 130
+        }
+      ]
+    }
+  ]
+}

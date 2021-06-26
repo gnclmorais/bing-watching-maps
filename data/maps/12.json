@@ -1,0 +1,1414 @@
+{
+  "id": 12,
+  "title": "Girls",
+  "subtitle": "The hipster heartland of Greenpoint, Williamsburg, and Bushwick",
+  "markers": [
+    {
+      "id": 432,
+      "place_id": 426,
+      "map_id": 12,
+      "created_at": "2019-04-04T17:19:47.525Z",
+      "updated_at": "2019-04-04T17:19:51.451Z",
+      "position": 1,
+      "name": "East River NYC Ferry",
+      "place": {
+        "id": 426,
+        "google_place_id": "ChIJvUa1yGpZwokRTKxc2q6-Khw",
+        "name": "10 India St",
+        "address": "10 India St, Brooklyn, NY 11222, USA",
+        "description": null,
+        "created_at": "2019-04-04T17:19:47.515Z",
+        "updated_at": "2019-04-04T17:19:47.515Z",
+        "lat": "40.7313566",
+        "lng": "-73.96093710000002"
+      },
+      "tagged_pins": [
+        {
+          "id": 822,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 823,
+          "name": "vista",
+          "tag_id": 75
+        },
+        {
+          "id": 824,
+          "name": "must-see",
+          "tag_id": 16
+        }
+      ]
+    },
+    {
+      "id": 433,
+      "place_id": 427,
+      "map_id": 12,
+      "created_at": "2019-04-04T17:20:04.186Z",
+      "updated_at": "2019-04-04T17:20:07.533Z",
+      "position": 2,
+      "name": "104 India Street",
+      "place": {
+        "id": 427,
+        "google_place_id": "ChIJj-Q5ej9ZwokRFrdhVqRclSw",
+        "name": "104 India St",
+        "address": "104 India St, Brooklyn, NY 11222, USA",
+        "description": null,
+        "created_at": "2019-04-04T17:20:04.176Z",
+        "updated_at": "2019-04-04T17:20:04.176Z",
+        "lat": "40.732078",
+        "lng": "-73.95612240000003"
+      },
+      "tagged_pins": [
+        {
+          "id": 825,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 826,
+          "name": "residential",
+          "tag_id": 40
+        },
+        {
+          "id": 827,
+          "name": "architecture",
+          "tag_id": 72
+        }
+      ]
+    },
+    {
+      "id": 434,
+      "place_id": 428,
+      "map_id": 12,
+      "created_at": "2019-04-04T17:20:19.758Z",
+      "updated_at": "2019-04-04T17:20:23.467Z",
+      "position": 3,
+      "name": "Café Grumpy",
+      "place": {
+        "id": 428,
+        "google_place_id": "ChIJ6QyMxUdZwokRALKVM6-NhGY",
+        "name": "Café Grumpy - Greenpoint",
+        "address": "193 Meserole Ave, Brooklyn, NY 11222, USA",
+        "description": null,
+        "created_at": "2019-04-04T17:20:19.747Z",
+        "updated_at": "2019-04-04T17:20:19.747Z",
+        "lat": "40.7286338",
+        "lng": "-73.94875330000002"
+      },
+      "tagged_pins": [
+        {
+          "id": 828,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 829,
+          "name": "coffee shop",
+          "tag_id": 35
+        }
+      ]
+    },
+    {
+      "id": 435,
+      "place_id": 429,
+      "map_id": 12,
+      "created_at": "2019-04-04T17:20:37.981Z",
+      "updated_at": "2019-04-04T17:20:37.981Z",
+      "position": 4,
+      "name": "Broadway Stages",
+      "place": {
+        "id": 429,
+        "google_place_id": "ChIJW9jqoTlZwokRWZbx0E8sfpo",
+        "name": "Broadway Stages",
+        "address": "203 Meserole Ave, Brooklyn, NY 11222, USA",
+        "description": null,
+        "created_at": "2019-04-04T17:20:37.969Z",
+        "updated_at": "2019-04-04T17:20:37.969Z",
+        "lat": "40.7287785",
+        "lng": "-73.9480949"
+      },
+      "tagged_pins": [
+        {
+          "id": 830,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 831,
+          "name": "studio",
+          "tag_id": 102
+        }
+      ]
+    },
+    {
+      "id": 436,
+      "place_id": 430,
+      "map_id": 12,
+      "created_at": "2019-04-04T17:20:50.353Z",
+      "updated_at": "2019-04-04T17:21:02.940Z",
+      "position": 5,
+      "name": "In God We Trust",
+      "place": {
+        "id": 430,
+        "google_place_id": "ChIJYT26eGdZwokRVT4byv_4zk8",
+        "name": "IGWT",
+        "address": "129 Bedford Ave, Brooklyn, NY 11211, USA",
+        "description": null,
+        "created_at": "2019-04-04T17:20:50.343Z",
+        "updated_at": "2019-04-04T17:20:50.343Z",
+        "lat": "40.719283",
+        "lng": "-73.95599500000003"
+      },
+      "tagged_pins": [
+        {
+          "id": 833,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 834,
+          "name": "clothing",
+          "tag_id": 9
+        }
+      ]
+    },
+    {
+      "id": 437,
+      "place_id": 431,
+      "map_id": 12,
+      "created_at": "2019-04-04T17:21:19.301Z",
+      "updated_at": "2019-04-04T17:21:19.301Z",
+      "position": 6,
+      "name": "Dusty Rose Vintage",
+      "place": {
+        "id": 431,
+        "google_place_id": "ChIJQ_cpqUlZwokRgOv1HmX1F60",
+        "name": "Dusty Rose Vintage",
+        "address": "67 West St #216, Brooklyn, NY 11222, USA",
+        "description": null,
+        "created_at": "2019-04-04T17:21:19.290Z",
+        "updated_at": "2019-04-04T17:21:19.290Z",
+        "lat": "40.728463",
+        "lng": "-73.95990699999999"
+      },
+      "tagged_pins": [
+        {
+          "id": 835,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 836,
+          "name": "clothing",
+          "tag_id": 9
+        }
+      ]
+    },
+    {
+      "id": 438,
+      "place_id": 432,
+      "map_id": 12,
+      "created_at": "2019-04-04T17:21:38.751Z",
+      "updated_at": "2019-04-04T17:21:38.751Z",
+      "position": 7,
+      "name": "Beacon's Closet",
+      "place": {
+        "id": 432,
+        "google_place_id": "ChIJc3s0MV1ZwokR0I_e0seTOEo",
+        "name": "Beacon's Closet",
+        "address": "74 Guernsey St, Brooklyn, NY 11222, USA",
+        "description": null,
+        "created_at": "2019-04-04T17:21:38.723Z",
+        "updated_at": "2019-04-04T17:21:38.723Z",
+        "lat": "40.7236208",
+        "lng": "-73.9526156"
+      },
+      "tagged_pins": [
+        {
+          "id": 837,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 838,
+          "name": "clothing",
+          "tag_id": 9
+        }
+      ]
+    },
+    {
+      "id": 439,
+      "place_id": 433,
+      "map_id": 12,
+      "created_at": "2019-04-04T17:21:57.467Z",
+      "updated_at": "2019-04-04T17:21:57.467Z",
+      "position": 8,
+      "name": "Buffalo Exchange",
+      "place": {
+        "id": 433,
+        "google_place_id": "ChIJ16bkQlxZwokRTElPDqihDAE",
+        "name": "Buffalo Exchange",
+        "address": "504 Driggs Ave, Brooklyn, NY 11211, USA",
+        "description": null,
+        "created_at": "2019-04-04T17:21:57.458Z",
+        "updated_at": "2019-04-04T17:21:57.458Z",
+        "lat": "40.7183246",
+        "lng": "-73.95528159999998"
+      },
+      "tagged_pins": [
+        {
+          "id": 839,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 840,
+          "name": "clothing",
+          "tag_id": 9
+        }
+      ]
+    },
+    {
+      "id": 440,
+      "place_id": 434,
+      "map_id": 12,
+      "created_at": "2019-04-04T17:22:17.419Z",
+      "updated_at": "2019-04-04T17:22:17.419Z",
+      "position": 9,
+      "name": "Wolves Within",
+      "place": {
+        "id": 434,
+        "google_place_id": "ChIJxYMQckBZwokR0H5QMcOvhr4",
+        "name": "Wolves Within",
+        "address": "174 Franklin St, Brooklyn, NY 11222, USA",
+        "description": null,
+        "created_at": "2019-04-04T17:22:17.408Z",
+        "updated_at": "2019-04-04T17:22:17.408Z",
+        "lat": "40.731151",
+        "lng": "-73.95759379999998"
+      },
+      "tagged_pins": [
+        {
+          "id": 841,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 842,
+          "name": "clothing",
+          "tag_id": 9
+        }
+      ]
+    },
+    {
+      "id": 455,
+      "place_id": 449,
+      "map_id": 12,
+      "created_at": "2019-04-04T17:36:09.694Z",
+      "updated_at": "2019-04-04T17:36:09.694Z",
+      "position": 10,
+      "name": "J.Crew",
+      "place": {
+        "id": 449,
+        "google_place_id": "ChIJSSh502ZZwokReyrB-pfQd3M",
+        "name": "J.Crew",
+        "address": "234 Wythe Ave, Brooklyn, NY 11249, USA",
+        "description": null,
+        "created_at": "2019-04-04T17:36:09.683Z",
+        "updated_at": "2019-04-04T17:36:09.683Z",
+        "lat": "40.7177339",
+        "lng": "-73.9627213"
+      },
+      "tagged_pins": [
+        {
+          "id": 843,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 844,
+          "name": "clothing",
+          "tag_id": 9
+        }
+      ]
+    },
+    {
+      "id": 457,
+      "place_id": 451,
+      "map_id": 12,
+      "created_at": "2019-04-04T17:36:39.208Z",
+      "updated_at": "2019-04-04T17:36:49.818Z",
+      "position": 11,
+      "name": "Bedford Avenue",
+      "place": {
+        "id": 451,
+        "google_place_id": "ChIJ5aQoxF1ZwokRjrFlYJmAB-c",
+        "name": "Bedford Avenue Station",
+        "address": "Brooklyn, NY 11211, United States",
+        "description": null,
+        "created_at": "2019-04-04T17:36:39.199Z",
+        "updated_at": "2019-04-04T17:36:39.199Z",
+        "lat": "40.7177978",
+        "lng": "-73.95751710000002"
+      },
+      "tagged_pins": [
+        {
+          "id": 845,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 846,
+          "name": "subway",
+          "tag_id": 97
+        }
+      ]
+    },
+    {
+      "id": 458,
+      "place_id": 452,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:18:11.489Z",
+      "updated_at": "2019-04-06T20:18:20.932Z",
+      "position": 12,
+      "name": "The Edge",
+      "place": {
+        "id": 452,
+        "google_place_id": "ChIJAUEpSWZZwokRs6ey4NANNQg",
+        "name": "Edge Condominium",
+        "address": "22 N 6th St, Brooklyn, NY 11249, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:18:11.478Z",
+        "updated_at": "2019-04-06T20:18:11.478Z",
+        "lat": "40.72030729999999",
+        "lng": "-73.96334150000001"
+      },
+      "tagged_pins": [
+        {
+          "id": 847,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 848,
+          "name": "residential",
+          "tag_id": 40
+        },
+        {
+          "id": 849,
+          "name": "architecture",
+          "tag_id": 72
+        }
+      ]
+    },
+    {
+      "id": 459,
+      "place_id": 453,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:18:31.710Z",
+      "updated_at": "2019-04-06T20:18:31.710Z",
+      "position": 13,
+      "name": "Wythe Hotel",
+      "place": {
+        "id": 453,
+        "google_place_id": "ChIJucbIy0JZwokRvgoW5tnNHM0",
+        "name": "Wythe Hotel",
+        "address": "80 Wythe Ave, Brooklyn, NY 11249, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:18:31.696Z",
+        "updated_at": "2019-04-06T20:18:31.696Z",
+        "lat": "40.7218887",
+        "lng": "-73.95809710000003"
+      },
+      "tagged_pins": [
+        {
+          "id": 850,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 851,
+          "name": "hotel",
+          "tag_id": 21
+        },
+        {
+          "id": 852,
+          "name": "rooftop",
+          "tag_id": 74
+        },
+        {
+          "id": 853,
+          "name": "bar",
+          "tag_id": 27
+        }
+      ]
+    },
+    {
+      "id": 460,
+      "place_id": 454,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:18:53.539Z",
+      "updated_at": "2019-04-06T20:19:02.623Z",
+      "position": 14,
+      "name": "Café Mogador",
+      "place": {
+        "id": 454,
+        "google_place_id": "ChIJN5X_gWdZwokRck9rk2guJ1M",
+        "name": "Cafe Mogador - Williamsburg",
+        "address": "133 Wythe Ave, Brooklyn, NY 11249, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:18:53.531Z",
+        "updated_at": "2019-04-06T20:18:53.531Z",
+        "lat": "40.7197823",
+        "lng": "-73.96004010000001"
+      },
+      "tagged_pins": [
+        {
+          "id": 854,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 855,
+          "name": "restaurant",
+          "tag_id": 3
+        }
+      ]
+    },
+    {
+      "id": 461,
+      "place_id": 455,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:19:13.357Z",
+      "updated_at": "2019-04-06T20:19:13.357Z",
+      "position": 15,
+      "name": "Smorgasburg",
+      "place": {
+        "id": 455,
+        "google_place_id": "ChIJ9-C4sWdZwokRjDucHJ5DepI",
+        "name": "Smorgasburg",
+        "address": "90 Kent Ave, Brooklyn, NY 11211, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:19:13.349Z",
+        "updated_at": "2019-04-06T20:19:13.349Z",
+        "lat": "40.7211016",
+        "lng": "-73.96256679999999"
+      },
+      "tagged_pins": [
+        {
+          "id": 856,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 857,
+          "name": "food on the go",
+          "tag_id": 24
+        },
+        {
+          "id": 858,
+          "name": "must-see",
+          "tag_id": 16
+        },
+        {
+          "id": 859,
+          "name": "park",
+          "tag_id": 19
+        }
+      ]
+    },
+    {
+      "id": 462,
+      "place_id": 456,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:19:25.788Z",
+      "updated_at": "2019-04-06T20:19:25.788Z",
+      "position": 16,
+      "name": "Polka Dot",
+      "place": {
+        "id": 456,
+        "google_place_id": "ChIJp3y6n0ZZwokRNcaCliYcgNQ",
+        "name": "Polka Dot",
+        "address": "726 Manhattan Ave, Brooklyn, NY 11222, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:19:25.777Z",
+        "updated_at": "2019-04-06T20:19:25.777Z",
+        "lat": "40.7261661",
+        "lng": "-73.95203759999998"
+      },
+      "tagged_pins": [
+        {
+          "id": 860,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 861,
+          "name": "food on the go",
+          "tag_id": 24
+        }
+      ]
+    },
+    {
+      "id": 463,
+      "place_id": 457,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:19:37.954Z",
+      "updated_at": "2019-04-06T20:19:37.954Z",
+      "position": 17,
+      "name": "Kellogg's Diner",
+      "place": {
+        "id": 457,
+        "google_place_id": "ChIJIccpGllZwokRx0BsEyyeQg4",
+        "name": "Kellogg's Diner",
+        "address": "518 Metropolitan Ave, Brooklyn, NY 11211, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:19:37.945Z",
+        "updated_at": "2019-04-06T20:19:37.945Z",
+        "lat": "40.7138573",
+        "lng": "-73.95179189999999"
+      },
+      "tagged_pins": [
+        {
+          "id": 862,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 863,
+          "name": "restaurant",
+          "tag_id": 3
+        },
+        {
+          "id": 864,
+          "name": "diner",
+          "tag_id": 68
+        }
+      ]
+    },
+    {
+      "id": 464,
+      "place_id": 458,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:19:48.328Z",
+      "updated_at": "2019-04-06T20:19:48.328Z",
+      "position": 18,
+      "name": "Spoonbill \u0026 Sugartown Books",
+      "place": {
+        "id": 458,
+        "google_place_id": "ChIJx8E1BF5ZwokRtRU5AGl19I0",
+        "name": "Spoonbill \u0026 Sugartown Books",
+        "address": "218 Bedford Ave, Brooklyn, NY 11249, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:19:48.311Z",
+        "updated_at": "2019-04-06T20:19:48.311Z",
+        "lat": "40.71655140000001",
+        "lng": "-73.95924789999998"
+      },
+      "tagged_pins": [
+        {
+          "id": 865,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 866,
+          "name": "bookstore",
+          "tag_id": 70
+        }
+      ]
+    },
+    {
+      "id": 465,
+      "place_id": 459,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:19:58.162Z",
+      "updated_at": "2019-04-06T20:19:58.162Z",
+      "position": 19,
+      "name": "Saved Tattoo",
+      "place": {
+        "id": 459,
+        "google_place_id": "ChIJZ0uJ_FhZwokRIRqCwy6qF4Y",
+        "name": "Saved Tattoo",
+        "address": "426 Union Ave, Brooklyn, NY 11211, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:19:58.154Z",
+        "updated_at": "2019-04-06T20:19:58.154Z",
+        "lat": "40.7132231",
+        "lng": "-73.95131989999999"
+      },
+      "tagged_pins": [
+        {
+          "id": 867,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 868,
+          "name": "beauty",
+          "tag_id": 77
+        }
+      ]
+    },
+    {
+      "id": 466,
+      "place_id": 460,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:20:11.325Z",
+      "updated_at": "2019-04-06T20:20:11.325Z",
+      "position": 20,
+      "name": "Greenpoint Tattoo Company",
+      "place": {
+        "id": 460,
+        "google_place_id": "ChIJcSM16UZZwokRID8KQyQ130M",
+        "name": "Greenpoint Tattoo Company",
+        "address": "131 Meserole Ave, Brooklyn, NY 11222, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:20:11.316Z",
+        "updated_at": "2019-04-06T20:20:11.316Z",
+        "lat": "40.7275536",
+        "lng": "-73.95177939999996"
+      },
+      "tagged_pins": [
+        {
+          "id": 869,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 870,
+          "name": "beauty",
+          "tag_id": 77
+        }
+      ]
+    },
+    {
+      "id": 467,
+      "place_id": 461,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:20:23.436Z",
+      "updated_at": "2019-04-06T20:20:23.436Z",
+      "position": 21,
+      "name": "Roberta's",
+      "place": {
+        "id": 461,
+        "google_place_id": "ChIJ87Mc5wBcwokRAj4JNcwppaE",
+        "name": "Roberta's",
+        "address": "261 Moore St, Brooklyn, NY 11206, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:20:23.427Z",
+        "updated_at": "2019-04-06T20:20:23.427Z",
+        "lat": "40.7050766",
+        "lng": "-73.93359229999999"
+      },
+      "tagged_pins": [
+        {
+          "id": 871,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 872,
+          "name": "restaurant",
+          "tag_id": 3
+        }
+      ]
+    },
+    {
+      "id": 468,
+      "place_id": 462,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:20:40.031Z",
+      "updated_at": "2019-04-06T20:20:40.031Z",
+      "position": 22,
+      "name": "Brooklyn Brewery",
+      "place": {
+        "id": 462,
+        "google_place_id": "ChIJUaAuMl1ZwokRt0-S_ynnRtc",
+        "name": "Brooklyn Brewery",
+        "address": "79 N 11th St, Brooklyn, NY 11249, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:20:40.021Z",
+        "updated_at": "2019-04-06T20:20:40.021Z",
+        "lat": "40.7217239",
+        "lng": "-73.9571722"
+      },
+      "tagged_pins": [
+        {
+          "id": 873,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 1496,
+          "name": "brewery",
+          "tag_id": 175
+        }
+      ]
+    },
+    {
+      "id": 469,
+      "place_id": 463,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:20:51.267Z",
+      "updated_at": "2019-04-28T10:06:51.752Z",
+      "position": 23,
+      "name": "The Silent Barn [CLOSED]",
+      "place": {
+        "id": 463,
+        "google_place_id": "ChIJKQDndQhcwokRA6hsaUjbDtw",
+        "name": "Silent Barn",
+        "address": "603 Bushwick Ave, Brooklyn, NY 11206, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:20:51.255Z",
+        "updated_at": "2019-04-06T20:20:51.255Z",
+        "lat": "40.69863",
+        "lng": "-73.93430699999999"
+      },
+      "tagged_pins": [
+        {
+          "id": 875,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 876,
+          "name": "bar",
+          "tag_id": 27
+        },
+        {
+          "id": 877,
+          "name": "music",
+          "tag_id": 31
+        }
+      ]
+    },
+    {
+      "id": 470,
+      "place_id": 464,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:21:13.876Z",
+      "updated_at": "2019-04-06T20:21:13.876Z",
+      "position": 24,
+      "name": "McCarren Park",
+      "place": {
+        "id": 464,
+        "google_place_id": "ChIJM8G7s0RZwokRWzCUMjlxA0I",
+        "name": "McCarren Park",
+        "address": "776 Lorimer St, Brooklyn, NY 11222, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:21:13.868Z",
+        "updated_at": "2019-04-06T20:21:13.868Z",
+        "lat": "40.7213441",
+        "lng": "-73.9526361"
+      },
+      "tagged_pins": [
+        {
+          "id": 878,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 879,
+          "name": "park",
+          "tag_id": 19
+        },
+        {
+          "id": 880,
+          "name": "music",
+          "tag_id": 31
+        }
+      ]
+    },
+    {
+      "id": 471,
+      "place_id": 465,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:22:43.169Z",
+      "updated_at": "2019-04-06T20:22:43.169Z",
+      "position": 25,
+      "name": "Pete's Candy Store",
+      "place": {
+        "id": 465,
+        "google_place_id": "ChIJ5dUgV1pZwokRaUaTcwzM2eA",
+        "name": "Pete's Candy Store",
+        "address": "709 Lorimer St, Brooklyn, NY 11211, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:22:43.161Z",
+        "updated_at": "2019-04-06T20:22:43.161Z",
+        "lat": "40.718099",
+        "lng": "-73.95019300000001"
+      },
+      "tagged_pins": [
+        {
+          "id": 881,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 882,
+          "name": "bar",
+          "tag_id": 27
+        },
+        {
+          "id": 883,
+          "name": "music",
+          "tag_id": 31
+        }
+      ]
+    },
+    {
+      "id": 472,
+      "place_id": 466,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:22:54.199Z",
+      "updated_at": "2019-04-06T20:22:54.199Z",
+      "position": 26,
+      "name": "The Gutter",
+      "place": {
+        "id": 466,
+        "google_place_id": "ChIJhZwYPkNZwokR5br0SgJqx2o",
+        "name": "The Gutter",
+        "address": "200 N 14th St, Brooklyn, NY 11211, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:22:54.190Z",
+        "updated_at": "2019-04-06T20:22:54.190Z",
+        "lat": "40.7225949",
+        "lng": "-73.9554301"
+      },
+      "tagged_pins": [
+        {
+          "id": 884,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 885,
+          "name": "bar",
+          "tag_id": 27
+        },
+        {
+          "id": 886,
+          "name": "entertainment",
+          "tag_id": 26
+        },
+        {
+          "id": 887,
+          "name": "music",
+          "tag_id": 31
+        }
+      ]
+    },
+    {
+      "id": 473,
+      "place_id": 467,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:23:09.610Z",
+      "updated_at": "2019-04-06T20:23:17.047Z",
+      "position": 27,
+      "name": "Coney Island \u0026 Luna Park",
+      "place": {
+        "id": 467,
+        "google_place_id": "ChIJszhg7zVEwokRZfR24Rx3-2M",
+        "name": "Luna Park",
+        "address": "1000 Surf Ave, Brooklyn, NY 11224, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:23:09.599Z",
+        "updated_at": "2019-04-06T20:23:09.599Z",
+        "lat": "40.57427500000001",
+        "lng": "-73.9785"
+      },
+      "tagged_pins": [
+        {
+          "id": 888,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 889,
+          "name": "entertainment",
+          "tag_id": 26
+        },
+        {
+          "id": 890,
+          "name": "beach",
+          "tag_id": 103
+        }
+      ]
+    },
+    {
+      "id": 474,
+      "place_id": 468,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:23:38.703Z",
+      "updated_at": "2019-04-06T20:23:38.703Z",
+      "position": 28,
+      "name": "Williamsburg Bridge",
+      "place": {
+        "id": 468,
+        "google_place_id": "ChIJxyfd2ddbwokR26AT-8t_Xtg",
+        "name": "Williamsburg Bridge",
+        "address": "Williamsburg Bridge, New York, NY, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:23:38.693Z",
+        "updated_at": "2019-04-06T20:23:38.693Z",
+        "lat": "40.7143492",
+        "lng": "-73.97443149999998"
+      },
+      "tagged_pins": [
+        {
+          "id": 891,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 892,
+          "name": "architecture",
+          "tag_id": 72
+        },
+        {
+          "id": 893,
+          "name": "vista",
+          "tag_id": 75
+        }
+      ]
+    },
+    {
+      "id": 475,
+      "place_id": 469,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:24:12.259Z",
+      "updated_at": "2019-04-06T20:24:32.533Z",
+      "position": 29,
+      "name": "Lehmann Maupin Gallery",
+      "place": {
+        "id": 469,
+        "google_place_id": "ChIJb_bf0oVZwokRmBk-dRrllFM",
+        "name": "Lehmann Maupin",
+        "address": "536 W 22nd St, New York, NY 10011, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:24:12.249Z",
+        "updated_at": "2019-04-06T20:24:12.249Z",
+        "lat": "40.7474992",
+        "lng": "-74.0062747"
+      },
+      "tagged_pins": [
+        {
+          "id": 894,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 895,
+          "name": "art",
+          "tag_id": 34
+        }
+      ]
+    },
+    {
+      "id": 476,
+      "place_id": 470,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:27:45.841Z",
+      "updated_at": "2019-04-06T20:27:45.841Z",
+      "position": 30,
+      "name": "New Museum",
+      "place": {
+        "id": 470,
+        "google_place_id": "ChIJlaRS3IVZwokR2llMD6dCt-U",
+        "name": "New Museum",
+        "address": "235 Bowery, New York, NY 10002, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:27:45.832Z",
+        "updated_at": "2019-04-06T20:27:45.832Z",
+        "lat": "40.7223376",
+        "lng": "-73.99289049999999"
+      },
+      "tagged_pins": [
+        {
+          "id": 896,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 897,
+          "name": "museum",
+          "tag_id": 23
+        },
+        {
+          "id": 898,
+          "name": "art",
+          "tag_id": 34
+        },
+        {
+          "id": 899,
+          "name": "vista",
+          "tag_id": 75
+        }
+      ]
+    },
+    {
+      "id": 477,
+      "place_id": 471,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:28:00.344Z",
+      "updated_at": "2019-04-06T20:28:06.516Z",
+      "position": 31,
+      "name": "Intermix",
+      "place": {
+        "id": 471,
+        "google_place_id": "ChIJvRYx8o5ZwokR8RkyZZd5gIM",
+        "name": "INTERMIX",
+        "address": "98 Prince St, New York, NY 10012, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:28:00.333Z",
+        "updated_at": "2019-04-06T20:28:00.333Z",
+        "lat": "40.72461000000001",
+        "lng": "-73.99889380000002"
+      },
+      "tagged_pins": [
+        {
+          "id": 900,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 901,
+          "name": "clothing",
+          "tag_id": 9
+        }
+      ]
+    },
+    {
+      "id": 478,
+      "place_id": 472,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:28:24.957Z",
+      "updated_at": "2019-04-06T20:28:29.409Z",
+      "position": 32,
+      "name": "Erin McKenna's Bakery",
+      "place": {
+        "id": 472,
+        "google_place_id": "ChIJ2YRjN4dZwokRbL5DuScXEyo",
+        "name": "Erin McKenna's Bakery NYC",
+        "address": "248 Broome St, New York, NY 10002, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:28:24.946Z",
+        "updated_at": "2019-04-06T20:28:24.946Z",
+        "lat": "40.7180599",
+        "lng": "-73.9897133"
+      },
+      "tagged_pins": [
+        {
+          "id": 902,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 903,
+          "name": "food on the go",
+          "tag_id": 24
+        }
+      ]
+    },
+    {
+      "id": 479,
+      "place_id": 473,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:28:46.004Z",
+      "updated_at": "2019-04-06T20:28:46.004Z",
+      "position": 33,
+      "name": "Little Cupcake Bakeshop",
+      "place": {
+        "id": 473,
+        "google_place_id": "ChIJJ3ZdWI9ZwokR23PXSej8iqw",
+        "name": "Little Cupcake Bakeshop",
+        "address": "30 Prince St, New York, NY 10012, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:28:45.995Z",
+        "updated_at": "2019-04-06T20:28:45.995Z",
+        "lat": "40.722932",
+        "lng": "-73.99485199999998"
+      },
+      "tagged_pins": [
+        {
+          "id": 904,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 905,
+          "name": "food on the go",
+          "tag_id": 24
+        }
+      ]
+    },
+    {
+      "id": 480,
+      "place_id": 474,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:29:05.275Z",
+      "updated_at": "2019-04-06T20:29:05.275Z",
+      "position": 34,
+      "name": "Vesuvio Playground",
+      "place": {
+        "id": 474,
+        "google_place_id": "ChIJy4wBT4xZwokRlPlUcvHPRBE",
+        "name": "Vesuvio Playground",
+        "address": "101 Thompson St, New York, NY 10012, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:29:05.264Z",
+        "updated_at": "2019-04-06T20:29:05.264Z",
+        "lat": "40.7253366",
+        "lng": "-74.00254740000003"
+      },
+      "tagged_pins": [
+        {
+          "id": 906,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 907,
+          "name": "park",
+          "tag_id": 19
+        }
+      ]
+    },
+    {
+      "id": 481,
+      "place_id": 475,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:30:25.161Z",
+      "updated_at": "2019-04-06T20:30:25.161Z",
+      "position": 35,
+      "name": "Taïm",
+      "place": {
+        "id": 475,
+        "google_place_id": "ChIJ4Us1t4hZwokRGsBUjumzejE",
+        "name": "Taïm",
+        "address": "45 Spring St, New York, NY 10012, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:30:25.152Z",
+        "updated_at": "2019-04-06T20:30:25.152Z",
+        "lat": "40.722148",
+        "lng": "-73.99606499999999"
+      },
+      "tagged_pins": [
+        {
+          "id": 908,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 909,
+          "name": "food on the go",
+          "tag_id": 24
+        }
+      ]
+    },
+    {
+      "id": 482,
+      "place_id": 476,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:30:38.774Z",
+      "updated_at": "2019-04-06T20:30:38.774Z",
+      "position": 36,
+      "name": "Tom \u0026 Jerry's",
+      "place": {
+        "id": 476,
+        "google_place_id": "ChIJ_67GdIVZwokRCIXPZBDVgdY",
+        "name": "Tom \u0026 Jerry's",
+        "address": "288 Elizabeth St, New York, NY 10012, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:30:38.765Z",
+        "updated_at": "2019-04-06T20:30:38.765Z",
+        "lat": "40.7246222",
+        "lng": "-73.9931631"
+      },
+      "tagged_pins": [
+        {
+          "id": 910,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 911,
+          "name": "bar",
+          "tag_id": 27
+        }
+      ]
+    },
+    {
+      "id": 483,
+      "place_id": 477,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:30:50.972Z",
+      "updated_at": "2019-04-06T20:30:50.972Z",
+      "position": 37,
+      "name": "Joe's Shanghai",
+      "place": {
+        "id": 477,
+        "google_place_id": "ChIJ2XIY-CZawokRokUjxBSl5hw",
+        "name": "Joe's Shanghai",
+        "address": "9 Pell St, New York, NY 10013, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:30:50.961Z",
+        "updated_at": "2019-04-06T20:30:50.961Z",
+        "lat": "40.7146266",
+        "lng": "-73.99776350000002"
+      },
+      "tagged_pins": [
+        {
+          "id": 912,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 913,
+          "name": "restaurant",
+          "tag_id": 3
+        }
+      ]
+    },
+    {
+      "id": 484,
+      "place_id": 478,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:31:05.980Z",
+      "updated_at": "2019-04-06T20:31:05.980Z",
+      "position": 38,
+      "name": "Saxon + Parole",
+      "place": {
+        "id": 478,
+        "google_place_id": "ChIJhbH6GYVZwokR_vGt6PKlsVo",
+        "name": "Saxon + Parole",
+        "address": "316 Bowery, New York, NY 10012, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:31:05.968Z",
+        "updated_at": "2019-04-06T20:31:05.968Z",
+        "lat": "40.7251783",
+        "lng": "-73.99253909999999"
+      },
+      "tagged_pins": [
+        {
+          "id": 914,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 915,
+          "name": "restaurant",
+          "tag_id": 3
+        }
+      ]
+    },
+    {
+      "id": 485,
+      "place_id": 479,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:31:17.827Z",
+      "updated_at": "2019-04-06T20:31:22.418Z",
+      "position": 39,
+      "name": "Housing Works Bookstore Café",
+      "place": {
+        "id": 479,
+        "google_place_id": "ChIJSaRjC49ZwokR402Rpxj6i9Q",
+        "name": "Housing Works Bookstore Cafe",
+        "address": "126 Crosby St, New York, NY 10012, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:31:17.812Z",
+        "updated_at": "2019-04-06T20:31:17.812Z",
+        "lat": "40.724569",
+        "lng": "-73.996485"
+      },
+      "tagged_pins": [
+        {
+          "id": 916,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 917,
+          "name": "bookstore",
+          "tag_id": 70
+        },
+        {
+          "id": 918,
+          "name": "coffee shop",
+          "tag_id": 35
+        },
+        {
+          "id": 919,
+          "name": "entertainment",
+          "tag_id": 26
+        }
+      ]
+    },
+    {
+      "id": 486,
+      "place_id": 480,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:31:33.269Z",
+      "updated_at": "2019-04-06T20:31:33.269Z",
+      "position": 40,
+      "name": "Meow Parlour",
+      "place": {
+        "id": 480,
+        "google_place_id": "ChIJdxwV6ilawokRjxYl79m1BzQ",
+        "name": "Meow Parlour",
+        "address": "46 Hester St, New York, NY 10002, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:31:33.256Z",
+        "updated_at": "2019-04-06T20:31:33.256Z",
+        "lat": "40.7155736",
+        "lng": "-73.99027999999998"
+      },
+      "tagged_pins": [
+        {
+          "id": 920,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 921,
+          "name": "coffee shop",
+          "tag_id": 35
+        }
+      ]
+    },
+    {
+      "id": 487,
+      "place_id": 481,
+      "map_id": 12,
+      "created_at": "2019-04-06T20:31:44.261Z",
+      "updated_at": "2019-04-06T20:31:44.261Z",
+      "position": 41,
+      "name": "Koneko",
+      "place": {
+        "id": 481,
+        "google_place_id": "ChIJRfY79IFZwokRSxU609-AfqA",
+        "name": "Koneko",
+        "address": "26 Clinton St, New York, NY 10002, USA",
+        "description": null,
+        "created_at": "2019-04-06T20:31:44.253Z",
+        "updated_at": "2019-04-06T20:31:44.253Z",
+        "lat": "40.7204578",
+        "lng": "-73.98413870000002"
+      },
+      "tagged_pins": [
+        {
+          "id": 922,
+          "name": "Girls",
+          "tag_id": 101
+        },
+        {
+          "id": 923,
+          "name": "coffee shop",
+          "tag_id": 35
+        }
+      ]
+    }
+  ]
+}

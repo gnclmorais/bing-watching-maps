@@ -1,0 +1,522 @@
+{
+  "id": 17,
+  "title": "Only in New York",
+  "subtitle": "Bonus",
+  "markers": [
+    {
+      "id": 636,
+      "place_id": 627,
+      "map_id": 17,
+      "created_at": "2019-04-06T22:20:38.388Z",
+      "updated_at": "2019-04-06T22:22:44.058Z",
+      "position": 1,
+      "name": "A. Cherry Hill Fountain",
+      "place": {
+        "id": 627,
+        "google_place_id": "ChIJ8fy1ao1YwokRVmWCYDIv12Y",
+        "name": "Cherry Hill Fountain",
+        "address": "Cherry Hill Fountain, New York, NY 10024, USA",
+        "description": null,
+        "created_at": "2019-04-06T22:20:38.378Z",
+        "updated_at": "2019-04-06T22:20:38.378Z",
+        "lat": "40.7746938",
+        "lng": "-73.97270659999998"
+      },
+      "tagged_pins": [
+        {
+          "id": 1300,
+          "name": "Unbreakable Kimmy Schmidt",
+          "tag_id": 146
+        },
+        {
+          "id": 1301,
+          "name": "park",
+          "tag_id": 19
+        },
+        {
+          "id": 1302,
+          "name": "architecture",
+          "tag_id": 72
+        },
+        {
+          "id": 1303,
+          "name": "must-see",
+          "tag_id": 16
+        }
+      ]
+    },
+    {
+      "id": 638,
+      "place_id": 629,
+      "map_id": 17,
+      "created_at": "2019-04-06T22:21:15.427Z",
+      "updated_at": "2019-04-06T22:22:48.073Z",
+      "position": 2,
+      "name": "B. 160 Riverside Drive",
+      "place": {
+        "id": 629,
+        "google_place_id": "ChIJR4r-C4FYwokRZ8dnxj9XHs4",
+        "name": "160 Riverside Dr",
+        "address": "160 Riverside Dr, New York, NY 10024, USA",
+        "description": null,
+        "created_at": "2019-04-06T22:21:15.417Z",
+        "updated_at": "2019-04-06T22:21:15.417Z",
+        "lat": "40.7912822",
+        "lng": "-73.9790314"
+      },
+      "tagged_pins": [
+        {
+          "id": 1304,
+          "name": "30 Rock",
+          "tag_id": 147
+        },
+        {
+          "id": 1306,
+          "name": "residential",
+          "tag_id": 40
+        }
+      ]
+    },
+    {
+      "id": 639,
+      "place_id": 630,
+      "map_id": 17,
+      "created_at": "2019-04-06T22:21:29.739Z",
+      "updated_at": "2019-04-06T22:22:53.750Z",
+      "position": 3,
+      "name": "C. Queens Museum",
+      "place": {
+        "id": 630,
+        "google_place_id": "ChIJmWMJBtBfwokR5qK7waLcgAM",
+        "name": "Queens Museum",
+        "address": "New York City Building, Corona, NY 11368, USA",
+        "description": null,
+        "created_at": "2019-04-06T22:21:29.726Z",
+        "updated_at": "2019-04-06T22:21:29.726Z",
+        "lat": "40.7457885",
+        "lng": "-73.84670790000001"
+      },
+      "tagged_pins": [
+        {
+          "id": 1307,
+          "name": "Mr. Robot",
+          "tag_id": 148
+        },
+        {
+          "id": 1308,
+          "name": "museum",
+          "tag_id": 23
+        }
+      ]
+    },
+    {
+      "id": 640,
+      "place_id": 631,
+      "map_id": 17,
+      "created_at": "2019-04-06T22:21:48.423Z",
+      "updated_at": "2019-04-06T22:23:14.109Z",
+      "position": 4,
+      "name": "D. 2 Bridges Music Arts",
+      "place": {
+        "id": 631,
+        "google_place_id": "ChIJ3aPAmShawokRfmTtBhI7MW8",
+        "name": "2 Bridges Music Arts",
+        "address": "75 E Broadway #205, New York, NY 10002, USA",
+        "description": null,
+        "created_at": "2019-04-06T22:21:48.414Z",
+        "updated_at": "2019-04-06T22:21:48.414Z",
+        "lat": "40.713637",
+        "lng": "-73.99413270000002"
+      },
+      "tagged_pins": [
+        {
+          "id": 1309,
+          "name": "Flight of the Conchords",
+          "tag_id": 149
+        },
+        {
+          "id": 1310,
+          "name": "music",
+          "tag_id": 31
+        },
+        {
+          "id": 1311,
+          "name": "shopping",
+          "tag_id": 13
+        }
+      ]
+    },
+    {
+      "id": 641,
+      "place_id": 632,
+      "map_id": 17,
+      "created_at": "2019-04-06T22:22:07.030Z",
+      "updated_at": "2019-04-06T22:23:19.021Z",
+      "position": 5,
+      "name": "E. Park Slope Food Coop",
+      "place": {
+        "id": 632,
+        "google_place_id": "ChIJpQemVgdbwokR4tVC2x91OtE",
+        "name": "Park Slope Food Coop",
+        "address": "782 Union St, Brooklyn, NY 11215, USA",
+        "description": null,
+        "created_at": "2019-04-06T22:22:07.022Z",
+        "updated_at": "2019-04-06T22:22:07.022Z",
+        "lat": "40.6748629",
+        "lng": "-73.9768095"
+      },
+      "tagged_pins": [
+        {
+          "id": 1312,
+          "name": "Bored to Death",
+          "tag_id": 150
+        },
+        {
+          "id": 1313,
+          "name": "food on the go",
+          "tag_id": 24
+        },
+        {
+          "id": 1314,
+          "name": "shopping",
+          "tag_id": 13
+        }
+      ]
+    },
+    {
+      "id": 642,
+      "place_id": 633,
+      "map_id": 17,
+      "created_at": "2019-04-06T22:23:43.255Z",
+      "updated_at": "2019-04-06T22:23:48.795Z",
+      "position": 6,
+      "name": "F. Picnic",
+      "place": {
+        "id": 633,
+        "google_place_id": "ChIJJzh96k9awokR-Gm4Co8zMx0",
+        "name": "Picnic",
+        "address": "192 Amity St, Brooklyn, NY 11201, USA",
+        "description": null,
+        "created_at": "2019-04-06T22:23:43.246Z",
+        "updated_at": "2019-04-06T22:23:43.246Z",
+        "lat": "40.6883631",
+        "lng": "-73.9934149"
+      },
+      "tagged_pins": [
+        {
+          "id": 1315,
+          "name": "The Slap",
+          "tag_id": 151
+        },
+        {
+          "id": 1316,
+          "name": "kids",
+          "tag_id": 85
+        },
+        {
+          "id": 1317,
+          "name": "shopping",
+          "tag_id": 13
+        }
+      ]
+    },
+    {
+      "id": 643,
+      "place_id": 634,
+      "map_id": 17,
+      "created_at": "2019-04-06T22:24:04.642Z",
+      "updated_at": "2019-04-06T22:24:10.550Z",
+      "position": 7,
+      "name": "G. Connolly's Bar",
+      "place": {
+        "id": 634,
+        "google_place_id": "ChIJ28m6v0dowokR-QG0e_o-QUg",
+        "name": "Connolly's Bar",
+        "address": "155 Cross Bay Pkwy, Rockaway Beach, NY 11693, USA",
+        "description": null,
+        "created_at": "2019-04-06T22:24:04.632Z",
+        "updated_at": "2019-04-06T22:24:04.632Z",
+        "lat": "40.584375",
+        "lng": "-73.816757"
+      },
+      "tagged_pins": [
+        {
+          "id": 1318,
+          "name": "Horace and Pete",
+          "tag_id": 152
+        },
+        {
+          "id": 1319,
+          "name": "bar",
+          "tag_id": 27
+        },
+        {
+          "id": 1321,
+          "name": "beach",
+          "tag_id": 103
+        }
+      ]
+    },
+    {
+      "id": 644,
+      "place_id": 635,
+      "map_id": 17,
+      "created_at": "2019-04-06T22:24:24.815Z",
+      "updated_at": "2019-04-06T22:24:32.926Z",
+      "position": 8,
+      "name": "H. Brooklyn Farmacy",
+      "place": {
+        "id": 635,
+        "google_place_id": "ChIJEfQ86FtawokRL5EWcuqDo7g",
+        "name": "Brooklyn Farmacy \u0026 Soda Fountain",
+        "address": "513 Henry St, Brooklyn, NY 11231, USA",
+        "description": null,
+        "created_at": "2019-04-06T22:24:24.805Z",
+        "updated_at": "2019-04-06T22:24:24.805Z",
+        "lat": "40.6840071",
+        "lng": "-73.99929259999999"
+      },
+      "tagged_pins": [
+        {
+          "id": 1322,
+          "name": "The Last O.G.",
+          "tag_id": 154
+        },
+        {
+          "id": 1323,
+          "name": "restaurant",
+          "tag_id": 3
+        },
+        {
+          "id": 1324,
+          "name": "diner",
+          "tag_id": 68
+        }
+      ]
+    },
+    {
+      "id": 645,
+      "place_id": 636,
+      "map_id": 17,
+      "created_at": "2019-04-06T22:25:00.460Z",
+      "updated_at": "2019-04-06T22:25:11.719Z",
+      "position": 9,
+      "name": "I. Decatur Street",
+      "place": {
+        "id": 636,
+        "google_place_id": "ChIJWUPT6hNcwokRmOnuOzK3otw",
+        "name": "Decatur St",
+        "address": "Decatur St, New York, NY, USA",
+        "description": null,
+        "created_at": "2019-04-06T22:25:00.448Z",
+        "updated_at": "2019-04-06T22:25:00.448Z",
+        "lat": "40.683259",
+        "lng": "-73.91764799999999"
+      },
+      "tagged_pins": [
+        {
+          "id": 1325,
+          "name": "Everybody Hates Chris",
+          "tag_id": 155
+        },
+        {
+          "id": 1326,
+          "name": "residential",
+          "tag_id": 40
+        }
+      ]
+    },
+    {
+      "id": 646,
+      "place_id": 637,
+      "map_id": 17,
+      "created_at": "2019-04-06T22:25:32.955Z",
+      "updated_at": "2019-04-06T22:25:45.462Z",
+      "position": 10,
+      "name": "J. LES Ecology Center",
+      "place": {
+        "id": 637,
+        "google_place_id": "ChIJZRkvxlVawokRBQc7OEb6U0Y",
+        "name": "Lower East Side Ecology Center Electronic Waste Recycling Warehouse",
+        "address": "469 President St, Brooklyn, NY 11215, USA",
+        "description": null,
+        "created_at": "2019-04-06T22:25:32.945Z",
+        "updated_at": "2019-04-06T22:25:32.945Z",
+        "lat": "40.678452",
+        "lng": "-73.9874279"
+      },
+      "tagged_pins": [
+        {
+          "id": 1327,
+          "name": "Broad City",
+          "tag_id": 156
+        },
+        {
+          "id": 1328,
+          "name": "art",
+          "tag_id": 34
+        }
+      ]
+    },
+    {
+      "id": 647,
+      "place_id": 638,
+      "map_id": 17,
+      "created_at": "2019-04-06T22:26:01.964Z",
+      "updated_at": "2019-04-06T22:26:07.744Z",
+      "position": 11,
+      "name": "K. Ramona",
+      "place": {
+        "id": 638,
+        "google_place_id": "ChIJ63drRkBZwokROWf8GsC32q8",
+        "name": "Ramona",
+        "address": "113 Franklin St, Brooklyn, NY 11222, USA",
+        "description": null,
+        "created_at": "2019-04-06T22:26:01.950Z",
+        "updated_at": "2019-04-06T22:26:01.950Z",
+        "lat": "40.7302229",
+        "lng": "-73.95791209999999"
+      },
+      "tagged_pins": [
+        {
+          "id": 1329,
+          "name": "Search Party",
+          "tag_id": 157
+        },
+        {
+          "id": 1330,
+          "name": "bar",
+          "tag_id": 27
+        }
+      ]
+    },
+    {
+      "id": 648,
+      "place_id": 639,
+      "map_id": 17,
+      "created_at": "2019-04-06T22:26:20.128Z",
+      "updated_at": "2019-04-06T22:26:26.139Z",
+      "position": 12,
+      "name": "L. DOGMA",
+      "place": {
+        "id": 639,
+        "google_place_id": "ChIJz5v05JJZwokRgs2K4x1xZ0M",
+        "name": "DOGMA",
+        "address": "21 7th Ave S, New York, NY 10014, USA",
+        "description": null,
+        "created_at": "2019-04-06T22:26:20.116Z",
+        "updated_at": "2019-04-06T22:26:20.116Z",
+        "lat": "40.7302514",
+        "lng": "-74.0044661"
+      },
+      "tagged_pins": [
+        {
+          "id": 1331,
+          "name": "High Maintenance",
+          "tag_id": 158
+        },
+        {
+          "id": 1332,
+          "name": "dog",
+          "tag_id": 159
+        }
+      ]
+    },
+    {
+      "id": 649,
+      "place_id": 640,
+      "map_id": 17,
+      "created_at": "2019-04-06T22:26:36.592Z",
+      "updated_at": "2019-04-06T22:26:43.229Z",
+      "position": 13,
+      "name": "M. San Marzano",
+      "place": {
+        "id": 640,
+        "google_place_id": "ChIJP8Rym5xZwokRUIkeVZ-8Q-s",
+        "name": "San Marzano",
+        "address": "117 2nd Ave, New York, NY 10003, USA",
+        "description": null,
+        "created_at": "2019-04-06T22:26:36.578Z",
+        "updated_at": "2019-04-06T22:26:36.578Z",
+        "lat": "40.7279967",
+        "lng": "-73.98843790000001"
+      },
+      "tagged_pins": [
+        {
+          "id": 1333,
+          "name": "Difficult People",
+          "tag_id": 160
+        },
+        {
+          "id": 1334,
+          "name": "restaurant",
+          "tag_id": 3
+        }
+      ]
+    },
+    {
+      "id": 650,
+      "place_id": 641,
+      "map_id": 17,
+      "created_at": "2019-04-06T22:26:55.356Z",
+      "updated_at": "2019-04-06T22:27:01.199Z",
+      "position": 14,
+      "name": "N. Hearst Tower",
+      "place": {
+        "id": 641,
+        "google_place_id": "ChIJU0EjclhYwokRRJsr6pdOlTc",
+        "name": "Hearst Tower",
+        "address": "Hearst Tower, New York, NY 10019, USA",
+        "description": null,
+        "created_at": "2019-04-06T22:26:55.347Z",
+        "updated_at": "2019-04-06T22:26:55.347Z",
+        "lat": "40.7665402",
+        "lng": "-73.98341619999997"
+      },
+      "tagged_pins": [
+        {
+          "id": 1335,
+          "name": "The Bold Type",
+          "tag_id": 161
+        },
+        {
+          "id": 1336,
+          "name": "architecture",
+          "tag_id": 72
+        }
+      ]
+    },
+    {
+      "id": 651,
+      "place_id": 642,
+      "map_id": 17,
+      "created_at": "2019-04-06T22:27:15.699Z",
+      "updated_at": "2019-04-06T22:27:21.648Z",
+      "position": 15,
+      "name": "O. City Reliquary Museum",
+      "place": {
+        "id": 642,
+        "google_place_id": "ChIJi_gUG19ZwokRVOVHajV6iTI",
+        "name": "The City Reliquary Museum",
+        "address": "370 Metropolitan Ave, Brooklyn, NY 11211, USA",
+        "description": null,
+        "created_at": "2019-04-06T22:27:15.690Z",
+        "updated_at": "2019-04-06T22:27:15.690Z",
+        "lat": "40.713963",
+        "lng": "-73.95574599999998"
+      },
+      "tagged_pins": [
+        {
+          "id": 1337,
+          "name": "Good Girls Revolt",
+          "tag_id": 162
+        },
+        {
+          "id": 1338,
+          "name": "museum",
+          "tag_id": 23
+        }
+      ]
+    }
+  ]
+}
