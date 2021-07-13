@@ -1,18 +1,31 @@
 import Head from 'next/head'
-import Link from 'next/link'
+import dynamic from 'next/dynamic';
 
 import { getAllMapIds, getMapData } from '../../lib/maps'
 
 export default function Map({ mapData }) {
+  const MapWithNoSSR = dynamic(() => import('../../components/map'), {
+    ssr: false
+  });
+  const formattedMarkers = mapData.markers.map(({ id, name, place}) => ({
+    id,
+    position: [place.lat, place.lng],
+    description: name,
+  }));
+
   return (
     <>
       <Head>
         <title>{mapData.title}</title>
       </Head>
 
-      Map: <strong>{mapData.title}</strong> (<em>{mapData.subtitle}</em>)
-      <br />
-      {mapData.markers.length} markers
+      <p>
+        Map: <strong>{mapData.title}</strong> (<em>{mapData.subtitle}</em>)
+        <br />
+        {mapData.markers.length} places
+      </p>
+
+      <MapWithNoSSR markers={formattedMarkers} />
     </>
   )
 }
