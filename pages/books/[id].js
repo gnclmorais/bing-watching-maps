@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Link from 'next/link'
 
 import { getAllBookIds, getBookData } from '../../lib/books'
 
@@ -9,10 +10,13 @@ export default function Book({ bookData }) {
         <title>{bookData.title}</title>
       </Head>
 
-      Book
-      {bookData.title}
+      Book: <strong>{bookData.title}</strong>
       <br />
-      {bookData.chapters.map(({ title }) => title).join(', ')}
+      {bookData.chapters.map(({ id, title }) => (
+        <Link key={id} href={`/maps/${id}`}>
+          <a className="underline">{title}</a>
+        </Link>
+      ))}
     </>
   )
 }
