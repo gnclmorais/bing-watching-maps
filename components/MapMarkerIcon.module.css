@@ -2,13 +2,12 @@
 .marker {
   @apply shadow-md border;
 
-  /* TODO: Make sure the pin's edge points to the right place */
-
   width: 30px;
   height: 30px;
   border-radius: 50% 50% 50% 0;
   background: #89849b;
   transform: rotate(-45deg);
+  transform-origin: bottom left;
   left: 50%;
   top: 50%;
   margin: -20px 0 0 -20px;
