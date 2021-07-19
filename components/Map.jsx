@@ -1,4 +1,4 @@
-import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
+import { MapContainer, TileLayer, Marker, Popup, ZoomControl } from 'react-leaflet'
 import 'leaflet/dist/leaflet.css'
 import 'leaflet-defaulticon-compatibility/dist/leaflet-defaulticon-compatibility.css'
 import 'leaflet-defaulticon-compatibility';
@@ -15,6 +15,7 @@ const Map = ({ markers = [] }) => {
       zoom={14}
       scrollWheelZoom={false}
       style={{ height: '100%' }}
+      zoomControl={false}
     >
       <TileLayer
         url={tileLayerUrl}
@@ -32,6 +33,8 @@ const Map = ({ markers = [] }) => {
           <Popup>{description}</Popup>
         </Marker>
       ))}
+
+      <ZoomControl position="bottomright" />
     </MapContainer>
   )
 }
