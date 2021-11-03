@@ -10,14 +10,7 @@ import { customIcon } from './MapMarkerIcon';
 const mapboxToken = process.env.NEXT_PUBLIC_MAPBOX_TOKEN;
 const tileLayerUrl = `https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/256/{z}/{x}/{y}@2x?access_token=${mapboxToken}`;
 
-const Map = ({ markers = [] }) => {
-  const [focusedMarkerRef, setFocusedMarkerRef] = useState(null);
-  useEffect(() => {
-    if (!focusedMarkerRef) return;
-
-    focusedMarkerRef.current.scrollIntoView({ behavior: 'smooth' });
-  }, [focusedMarkerRef]);
-
+const Map = ({ markers = [], setHighlightedMarker }) => {
   return (
     <MapContainer
       center={[40.8054, -74.0241]}
@@ -39,7 +32,8 @@ const Map = ({ markers = [] }) => {
           draggable={false}
           animate={true}
           eventHandlers={{
-            click: () => setFocusedMarkerRef(ref),
+            // click: () => setFocusedMarkerRef(ref),
+            click: () => setHighlightedMarker(markers[index]),
           }}
         >
           <Popup>{description}</Popup>

@@ -1,0 +1,9 @@
+@keyframes highlight {
+    0% { background-color: hsl(48, 100%, 67%); }
+  100% { background-color: hsl(0, 0%, 100%); }
+}
+.focus {
+  animation-name: highlight;
+  animation-duration: 3s;
+  animation-timing-function: ease-in;
+}

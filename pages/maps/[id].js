@@ -1,24 +1,33 @@
 import Head from 'next/head'
 import dynamic from 'next/dynamic';
-import { useRef } from 'react';
+import { useEffect, useRef, useState } from 'react';
 
-import { getAllMapIds, getMapData } from '../../lib/maps'
+import { getAllMapIds, getMapData } from '@/lib/maps'
+import styles from '../../styles/Map.module.css'
 
 export default function Map({ mapData }) {
-  const MapWithNoSSR = dynamic(() => import('../../components/map'), {
-    ssr: false
-  });
+  const MapWithNoSSR = dynamic(() => import('@/components/map'), { ssr: false });
   const formattedMarkers = mapData.markers.map(({ id, name, place}) => ({
     id,
     position: [place.lat, place.lng],
     description: name,
     ref: useRef(),
   }));
+  
+  const [highlightedMarker, setHighlightedMarker] = useState();
+  const [focusedMarkerRef, setFocusedMarkerRef] = useState();
+  useEffect(() => {
+    if (!focusedMarkerRef) return;
+
+    focusedMarkerRef.current.scrollIntoView({ behavior: 'smooth' });
+  }, [focusedMarkerRef]);
+  const highlight = ({ id, ref }) => {
+    setHighlightedMarker(id);
+    setFocusedMarkerRef(ref);
+  };
 
   return (
-    // TODO: Change inline styles with Tailwind classes
-    // TODO: Find the class that makes children not overgrow the parent
-    <div className="flex flex-col" style={{ height: '100%' }}>
+    <div className="flex flex-col h-full">
       <Head>
         <title>{mapData.title}</title>
       </Head>
@@ -29,17 +38,26 @@ export default function Map({ mapData }) {
         {formattedMarkers.length} places
       </p>
 
-      {/* TODO: Change inline styles with Tailwind classes */}
-      <div className="flex-grow-0 flex-shrink flex flex-row" style={{ overflowY: 'clip' }}>
+      <div className="flex-grow-0 flex-shrink flex flex-row overflow-y-hidden">
         <div className="overflow-y-scroll">
           <ol>
             {formattedMarkers.map((marker, index) => (
-              <li key={marker.id} ref={marker.ref}>{index + 1}. {marker.description}</li>
+              <li
+                key={marker.id}
+                ref={marker.ref}
+                className={marker.id === highlightedMarker ? styles.focus : ""}
+              >
+                {console.log(marker === highlightedMarker)}
+                {index + 1}. {marker.description}
+              </li>
             ))}
           </ol>
         </div>
         <div className="flex-grow">
-          <MapWithNoSSR markers={formattedMarkers} />
+          <MapWithNoSSR
+            markers={formattedMarkers}
+            setHighlightedMarker={highlight}
+          />
         </div>
       </div>
     </div>
