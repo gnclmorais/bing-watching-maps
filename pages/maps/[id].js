@@ -1,67 +1,75 @@
-import Head from 'next/head'
+import Head from 'next/head';
 import dynamic from 'next/dynamic';
-import { useEffect, useRef, useState } from 'react';
+import { memo, Component, forwardRef, createRef } from 'react';
 
-import { getAllMapIds, getMapData } from '@/lib/maps'
-import styles from '../../styles/Map.module.css'
+import { getAllMapIds, getMapData } from '@/lib/maps';
 
-export default function Map({ mapData }) {
-  const MapWithNoSSR = dynamic(() => import('@/components/map'), { ssr: false });
-  const formattedMarkers = mapData.markers.map(({ id, name, place}) => ({
-    id,
-    position: [place.lat, place.lng],
-    description: name,
-    ref: useRef(),
-  }));
-  
-  const [highlightedMarker, setHighlightedMarker] = useState();
-  const [focusedMarkerRef, setFocusedMarkerRef] = useState();
-  useEffect(() => {
-    if (!focusedMarkerRef) return;
+import PlacesList from '@/components/PlacesList';
 
-    focusedMarkerRef.current.scrollIntoView({ behavior: 'smooth' });
-  }, [focusedMarkerRef]);
-  const highlight = ({ id, ref }) => {
-    setHighlightedMarker(id);
-    setFocusedMarkerRef(ref);
-  };
+export default class MapPage extends Component {
+  constructor(props) {
+    super(props);
 
-  return (
-    <div className="flex flex-col h-full">
-      <Head>
-        <title>{mapData.title}</title>
-      </Head>
+    this.mapData = props.mapData;
+    this.state = {
+      highlightedMarker: null,
+    }
+  }
 
-      <p className="flex-grow-0 flex-shrink">
-        Map: <strong>{mapData.title}</strong> (<em>{mapData.subtitle}</em>)
-        <br />
-        {formattedMarkers.length} places
-      </p>
+  render() {
+    const MapWithNoSSR = memo(dynamic(() => import('@/components/map'), { ssr: false }));
+    const highlight = ({ id }) => this.setState({ highlightedMarker: id });
 
-      <div className="flex-grow-0 flex-shrink flex flex-row overflow-y-hidden">
-        <div className="overflow-y-scroll">
-          <ol>
-            {formattedMarkers.map((marker, index) => (
-              <li
-                key={marker.id}
-                ref={marker.ref}
-                className={marker.id === highlightedMarker ? styles.focus : ""}
-              >
-                {console.log(marker === highlightedMarker)}
-                {index + 1}. {marker.description}
-              </li>
-            ))}
-          </ol>
-        </div>
-        <div className="flex-grow">
-          <MapWithNoSSR
-            markers={formattedMarkers}
-            setHighlightedMarker={highlight}
-          />
+    const mapData = this.mapData;
+    const refs = {}
+    const formattedMarkers = this.mapData.markers.map(({ id, name, place }) => {
+      refs[id] = createRef();
+
+      return {
+        id,
+        position: [place.lat, place.lng],
+        description: name,
+      };
+    });
+
+    const ForwardedPlacesList = forwardRef((props, refs) => (
+      <PlacesList
+        ref={refs}
+        markers={props.markers}
+        highlightedMarker={props.highlightedMarker}
+      />
+    ));
+
+    return (
+      <div className="flex flex-col h-full">
+        <Head>
+          <title>{mapData.title}</title>
+        </Head>
+
+        <p className="flex-grow-0 flex-shrink">
+          Map: <strong>{mapData.title}</strong> (<em>{mapData.subtitle}</em>)
+          <br />
+          {formattedMarkers.length} places
+        </p>
+
+        <div className="flex-grow-0 flex-shrink flex flex-row overflow-y-hidden">
+          <div className="overflow-y-scroll">
+            <ForwardedPlacesList
+              ref={refs}
+              markers={formattedMarkers}
+              highlightedMarker={this.state.highlightedMarker}
+            />
+          </div>
+          <div className="flex-grow">
+            <MapWithNoSSR
+              markers={formattedMarkers}
+              setHighlightedMarker={highlight}
+            />
+          </div>
         </div>
       </div>
-    </div>
-  )
+    )
+  }
 }
 
 // Return a list of possible value for id
