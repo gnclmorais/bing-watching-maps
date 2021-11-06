@@ -18,10 +18,16 @@ export default class Map extends PureComponent {
     this.setHighlightedMarker = props.setHighlightedMarker;
   }
 
+  get mapBoundaries() {
+    if (!this.markers.length) return;
+
+    return this.markers.map(marker => marker.position);
+  }
+
   render() {
     return (
       <MapContainer
-        center={[40.8054, -74.0241]}
+        bounds={this.mapBoundaries}
         zoom={14}
         scrollWheelZoom={false}
         style={{ height: '100%' }}
@@ -40,7 +46,7 @@ export default class Map extends PureComponent {
             draggable={false}
             animate={true}
             eventHandlers={{
-              click: () => this.setHighlightedMarker({ id }),
+              click: () => this.setHighlightedMarker(id),
             }}
           >
             <Popup>{description}</Popup>

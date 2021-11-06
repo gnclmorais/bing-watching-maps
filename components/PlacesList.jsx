@@ -1,27 +1,33 @@
-import { forwardRef, useEffect } from 'react';
+import { useEffect, useRef, useState } from 'react';
 
 import styles from './PlacesList.module.css';
 
-export default forwardRef(function PlacesList({ markers, highlightedMarker }, refs) {
+export default function PlacesList({ markers, onMount }) {
+  const [highlightedMarker, setHighlightedMarker] = useState();
+  const refs = Object.fromEntries(markers.map(marker => [marker.id, useRef()]));
+
   useEffect(() => {
-    const focusedMarkerRef = refs[highlightedMarker];
+    onMount([setHighlightedMarker]);
+  }, []);
+  useEffect(() => {
+    if (!refs[highlightedMarker]) return;
 
-    if (!focusedMarkerRef) return;
-
-    focusedMarkerRef.current.scrollIntoView({ behavior: 'smooth' });
+    refs[highlightedMarker].current.scrollIntoView({ behavior: 'smooth' });
   }, [highlightedMarker]);
 
   return (
     <ol>
-      {markers.map((marker, index) => (
-        <li
-          key={marker.id}
-          ref={refs[marker.id]}
-          className={marker.id === highlightedMarker ? styles.focus : ""}
-        >
-          {index + 1}. {marker.description}
-        </li>
-      ))}
+      {markers.map((marker, index) => {
+        return (
+          <li
+            key={marker.id}
+            ref={refs[marker.id]}
+            className={marker.id === highlightedMarker ? styles.focus : ""}
+          >
+            {index + 1}. {marker.description}
+          </li>
+        );
+      })}
     </ol>
   )
-});
+};
