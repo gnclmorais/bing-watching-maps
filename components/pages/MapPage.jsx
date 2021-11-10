@@ -8,8 +8,8 @@ export default class MapPage extends Component {
     super(props);
 
     this.mapData = props.mapData;
-    this.formattedMarkers = this.mapData.markers.map(({ id, name, place }) => {
-      return { id, position: [place.lat, place.lng], description: name };
+    this.formattedMarkers = this.mapData.markers.map(({ id, name, place, tagged_pins }) => {
+      return { id, position: [place.lat, place.lng], description: name, tagged_pins };
     });
   }
 

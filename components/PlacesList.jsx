@@ -24,7 +24,14 @@ export default function PlacesList({ markers, onMount }) {
             ref={refs[marker.id]}
             className={marker.id === highlightedMarker ? styles.focus : ""}
           >
-            {index + 1}. {marker.description}
+            <p>{index + 1}. {marker.description}</p>
+            <p>
+              {marker.tagged_pins.map(({ name }) => {
+                return (
+                  <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded text-gray-600 bg-gray-200 hover:bg-gray-300 uppercase last:mr-0 mr-1 cursor-pointer transition-colors">{name}</span>
+                );
+              })}
+            </p>
           </li>
         );
       })}
