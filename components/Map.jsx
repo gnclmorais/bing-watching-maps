@@ -38,7 +38,7 @@ export default class Map extends PureComponent {
           attribution='Map data &copy; <a href=&quot;https://www.openstreetmap.org/&quot;>OpenStreetMap</a> contributors, <a href=&quot;https://creativecommons.org/licenses/by-sa/2.0/&quot;>CC-BY-SA</a>, Imagery &copy; <a href=&quot;https://www.mapbox.com/&quot;>Mapbox</a>'
         />
         
-        {this.markers.map(({ id, position, description }, index) => (
+        {this.markers.map(({ id, position, description, address }, index) => (
           <Marker
             key={id}
             icon={customIcon({ number: index + 1 })}
@@ -49,7 +49,10 @@ export default class Map extends PureComponent {
               click: () => this.setHighlightedMarker(id),
             }}
           >
-            <Popup>{description}</Popup>
+            <Popup>
+              <div className="font-bold mb-2">{description}</div>
+              <div>{address}</div>
+            </Popup>
           </Marker>
         ))}
 

@@ -12,7 +12,7 @@ export default function PlacesList({ markers, onMount }) {
   useEffect(() => {
     if (!refs[highlightedMarker]) return;
 
-    refs[highlightedMarker].current.scrollIntoView({ behavior: 'smooth' });
+    refs[highlightedMarker].current.scrollIntoView({ behavior: 'smooth', block: 'center' });
   }, [highlightedMarker]);
 
   return (
@@ -22,13 +22,17 @@ export default function PlacesList({ markers, onMount }) {
           <li
             key={marker.id}
             ref={refs[marker.id]}
-            className={marker.id === highlightedMarker ? styles.focus : ""}
+            className={`
+              px-4 pt-2 pb-3
+              ${index % 2 ? 'bg-gray-50' : ''}
+              ${marker.id === highlightedMarker ? styles.focus : ''}
+            `}
           >
             <p>{index + 1}. {marker.description}</p>
             <p>
-              {marker.tagged_pins.map(({ name }) => {
+              {marker.tagged_pins.map(({ id, name }) => {
                 return (
-                  <span class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded text-gray-600 bg-gray-200 hover:bg-gray-300 uppercase last:mr-0 mr-1 cursor-pointer transition-colors">{name}</span>
+                  <small key={id} className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded text-gray-600 bg-gray-200 hover:bg-gray-300 last:mr-0 mr-1 cursor-pointer transition-colors">{name}</small>
                 );
               })}
             </p>
