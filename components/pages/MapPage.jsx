@@ -26,7 +26,7 @@ export default class MapPage extends Component {
   highlight = (id) => this.setState({ highlightedMarker: id });
 
   render() {
-    const MapWithNoSSR = dynamic(() => import('@/components/map'), { ssr: false });
+    const MapWithNoSSR = dynamic(() => import('@/components/Map'), { ssr: false });
     const MemoizedMap = memo((props) => <MapWithNoSSR {...props} />);
 
     const setSelectedLabel = (newLabel) => {
