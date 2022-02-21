@@ -28,8 +28,12 @@ export default class MapPage extends Component {
     // Get child's method that changes its state to pass it on to on of its
     // siblings, preventing re-renders of the parent component:
     let highlightMarkerFn = null;
-    const onPlacesListMount = ([callbackToHighlightMarker]) => {
+    let selectLabelFn = null;
+    const onPlacesListMount = ({ callbackToHighlightMarker, setSelectedLabel }) => {
+      console.log('onPlacesListMount');
+
       highlightMarkerFn = callbackToHighlightMarker;
+      selectLabelFn = setSelectedLabel;
     }
 
     return (
