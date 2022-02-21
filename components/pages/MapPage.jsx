@@ -44,8 +44,8 @@ export default class MapPage extends Component {
           {this.formattedMarkers.length} places
         </p>
 
-        <div className="flex-grow-0 flex-shrink flex flex-row overflow-y-hidden">
-          <div className="overflow-y-scroll">
+        <div className="flex-grow flex flex-row overflow-y-hidden">
+          <div className="overflow-y-scroll w-96 md:w-1/3 xl:w-1/4">
             <PlacesList
               markers={this.formattedMarkers}
               onMount={onPlacesListMount}

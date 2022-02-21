@@ -3,11 +3,21 @@ import { useEffect, useRef, useState } from 'react';
 import styles from './PlacesList.module.css';
 
 export default function PlacesList({ markers, onMount }) {
-  const refs = Object.fromEntries(markers.map(marker => [marker.id, useRef()]));
-
   const [highlightedMarker, setHighlightedMarker] = useState();
   const [selectedLabel, setSelectedLabel] = useState();
+
+  console.log({ marker: markers[0] })
+
+  const markersToDisplay = selectedLabel
+    ? markers.filter(({ tagged_pins }) => {
+      const tags = tagged_pins.map(pin => pin.name)
+
+      return tags.includes(selectedLabel);
+    })
+    : markers;
+
   const resetLabel = () => setSelectedLabel();
+  const refs = Object.fromEntries(markers.map(marker => [marker.id, useRef()]));
 
   useEffect(() => {
     onMount({ callbackToHighlightMarker: setHighlightedMarker, setSelectedLabel });
@@ -27,7 +37,7 @@ export default function PlacesList({ markers, onMount }) {
         </div>
       }
       <ol>
-        {markers.map((marker, index) => {
+        {markersToDisplay.map((marker, index) => {
           return (
             <li
               key={marker.id}
