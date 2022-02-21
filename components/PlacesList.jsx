@@ -2,9 +2,8 @@ import { useEffect, useRef, useState } from 'react';
 
 import styles from './PlacesList.module.css';
 
-export default function PlacesList({ markers, onMount }) {
+export default function PlacesList({ markers, onMount, selectedLabel, setSelectedLabel }) {
   const [highlightedMarker, setHighlightedMarker] = useState();
-  const [selectedLabel, setSelectedLabel] = useState();
 
   console.log({ marker: markers[0] })
 
@@ -17,15 +16,14 @@ export default function PlacesList({ markers, onMount }) {
     : markers;
 
   const resetLabel = () => setSelectedLabel();
-  const refs = Object.fromEntries(markers.map(marker => [marker.id, useRef()]));
 
   useEffect(() => {
-    onMount({ callbackToHighlightMarker: setHighlightedMarker, setSelectedLabel });
+    onMount({ callbackToHighlightMarker: setHighlightedMarker });
   }, []);
   useEffect(() => {
-    if (!refs[highlightedMarker]) return;
+    if (!highlightedMarker) return;
 
-    refs[highlightedMarker].current.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    highlightedMarker.ref.current.scrollIntoView({ behavior: 'smooth', block: 'center' });
   }, [highlightedMarker]);
 
   return (
@@ -41,7 +39,7 @@ export default function PlacesList({ markers, onMount }) {
           return (
             <li
               key={marker.id}
-              ref={refs[marker.id]}
+              ref={marker.ref}
               className={`
                 px-4 pt-2 pb-3
                 ${index % 2 ? 'bg-gray-50' : ''}
@@ -55,7 +53,7 @@ export default function PlacesList({ markers, onMount }) {
                     <button
                       key={id}
                       className={`text-xs font-semibold inline-block py-1 px-2 uppercase rounded text-gray-600 bg-gray-200 hover:bg-gray-300 last:mr-0 mr-1 cursor-pointer transition-colors ${name === selectedLabel ? 'bg-gray-300 text-gray-900' : ''}`}
-                      onClick={setSelectedLabel.bind(this, name)}
+                      onClick={()=> setSelectedLabel(name)}
                     >
                       {name}
                     </button>
