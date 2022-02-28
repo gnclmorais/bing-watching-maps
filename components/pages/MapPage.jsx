@@ -3,6 +3,11 @@ import { memo, Component, createRef, useState } from 'react';
 
 import PlacesList from '@/components/PlacesList';
 
+const TABS = {
+  LIST: 'list',
+  MAP: 'map',
+}
+
 export default class MapPage extends Component {
   constructor(props) {
     super(props);
@@ -20,10 +25,36 @@ export default class MapPage extends Component {
         };
       }),
       selectedLabel: null,
+      selectedTab: TABS.LIST,
     };
   }
 
-  highlight = (id) => this.setState({ highlightedMarker: id });
+  // Setters
+  selectTab = (newTab) => this.setState({ selectedTab: newTab })
+
+  // Getters
+  isMapSelected = () => this.state.selectedTab === TABS.MAP
+  styleButton = (buttonTab) => {
+    if (buttonTab === this.state.selectedTab) {
+      return 'px-4 py-2 font-semibold text-sm text-white shadow-sm rounded-lg bg-purple-500';
+    } else {
+      return 'px-4 py-2 font-semibold text-sm text-white shadow-sm rounded-lg bg-gray-400';
+    }
+  }
+  styleList = () => {
+    if (this.isMapSelected()) {
+      return 'overflow-y-scroll w-96 xs:w-full sm:w-full md:w-1/3 xl:w-1/4 md:block hidden';
+    } else {
+      return 'overflow-y-scroll w-96 xs:w-full sm:w-full md:w-1/3 xl:w-1/4 md:block';
+    }
+  }
+  styleMap = () => {
+    if (this.isMapSelected()) {
+      return `flex-grow md:block`;
+    } else {
+      return `flex-grow md:block hidden`;
+    }
+  }
 
   render() {
     const MapWithNoSSR = dynamic(() => import('@/components/Map'), { ssr: false });
@@ -58,8 +89,17 @@ export default class MapPage extends Component {
           {markersToDisplay.length} places
         </p>
 
+        <div className="md:hidden">
+          <button type="button" className={this.styleButton(TABS.LIST)} onClick={() => this.selectTab(TABS.LIST)}>
+            List
+          </button>
+          <button type="button" className={this.styleButton(TABS.MAP)}  onClick={() => this.selectTab(TABS.MAP)}>
+            Map
+          </button>
+        </div>
+
         <div className="flex-grow flex flex-row overflow-y-hidden">
-          <div className="overflow-y-scroll w-96 md:w-1/3 xl:w-1/4">
+          <div className={this.styleList()}>
             <PlacesList
               markers={markersToDisplay}
               onMount={onPlacesListMount}
@@ -67,7 +107,7 @@ export default class MapPage extends Component {
               setSelectedLabel={setSelectedLabel}
             />
           </div>
-          <div className="flex-grow">
+          <div className={this.styleMap()}>
             <MemoizedMap
               markers={markersToDisplay}
               setHighlightedMarker={(id) => highlightMarkerFn(id)}

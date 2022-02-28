@@ -5,8 +5,6 @@ import styles from './PlacesList.module.css';
 export default function PlacesList({ markers, onMount, selectedLabel, setSelectedLabel }) {
   const [highlightedMarker, setHighlightedMarker] = useState();
 
-  console.log({ marker: markers[0] })
-
   const markersToDisplay = selectedLabel
     ? markers.filter(({ tagged_pins }) => {
       const tags = tagged_pins.map(pin => pin.name)
