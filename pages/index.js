@@ -2,6 +2,8 @@ import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
 
+import { FaHome, FaFacebookSquare, FaInstagram, FaTwitterSquare, FaEnvelope } from 'react-icons/fa';
+
 import styles from '../styles/Home.module.css'
 import { getSortedBooksData } from '../lib/books'
 
@@ -16,9 +18,21 @@ export async function getStaticProps() {
 }
 
 export default function Home({ allBooksData }) {
+  const size = '1.5em';
+
   return (
     <div className="flex flex-col h-screen">
-      <header className="bg-purple-900 text-white">header</header>
+      <header className="bg-purple-900 text-white flex">
+        <div className="flex items-center flex-grow">
+          <FaHome size={size} /> <Link href={'/about'}>About the Binge Watching collection</Link>
+        </div>
+        <div className="flex items-center">
+          <FaFacebookSquare size={size} />
+          <FaInstagram size={size} />
+          <FaTwitterSquare size={size} />
+          <FaEnvelope size={size} />
+        </div>
+      </header>
 
       <section>
         <h2>Books</h2>
