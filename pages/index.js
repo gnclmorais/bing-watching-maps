@@ -2,7 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
 
-import { FaHome, FaFacebookSquare, FaInstagram, FaTwitterSquare, FaEnvelope } from 'react-icons/fa';
+import { FaHome, FaFacebookSquare, FaInstagramSquare, FaTwitterSquare, FaEnvelopeSquare } from 'react-icons/fa';
 
 import styles from '../styles/Home.module.css'
 import { getSortedBooksData } from '../lib/books'
@@ -27,10 +27,18 @@ export default function Home({ allBooksData }) {
           <FaHome size={size} /> <Link href={'/about'}>About the Binge Watching collection</Link>
         </div>
         <div className="flex items-center">
-          <FaFacebookSquare size={size} />
-          <FaInstagram size={size} />
-          <FaTwitterSquare size={size} />
-          <FaEnvelope size={size} />
+          <a href="https://facebook.com/bingewatchingcollection" target="_blank" rel="noopener noreferrer">
+            <FaFacebookSquare size={size} />
+          </a>
+          <a href="https://twitter.com/marion_en_vo" target="_blank" rel="noopener noreferrer">
+            <FaTwitterSquare size={size} />
+          </a>
+          <a href="https://instagram.com/marion_en_vo" target="_blank" rel="noopener noreferrer">
+            <FaInstagramSquare size={size} />
+          </a>
+          <a href="https://tinyletter.com/bingewatchingcollection" target="_blank" rel="noopener noreferrer">
+            <FaEnvelopeSquare size={size} />
+          </a>
         </div>
       </header>
 
