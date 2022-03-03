@@ -26,6 +26,7 @@ export default class MapPage extends Component {
       }),
       selectedLabel: null,
       selectedTab: TABS.LIST,
+      highlightMarkerFn: null,
     };
   }
 
@@ -68,10 +69,9 @@ export default class MapPage extends Component {
 
     // Get child's method that changes its state to pass it on to on of its
     // siblings, preventing re-renders of the parent component:
-    let highlightMarkerFn = null;
     let selectLabelFn = null;
     const onPlacesListMount = ({ callbackToHighlightMarker }) => {
-      highlightMarkerFn = callbackToHighlightMarker;
+      this.setState({ highlightMarkerFn: callbackToHighlightMarker });
     }
 
     const markersToDisplay = !this.state.selectedLabel
@@ -111,7 +111,7 @@ export default class MapPage extends Component {
           <div className={this.styleMap()}>
             <MemoizedMap
               markers={markersToDisplay}
-              setHighlightedMarker={(id) => highlightMarkerFn(id)}
+              setHighlightedMarker={this.state.highlightMarkerFn}
             />
           </div>
         </div>

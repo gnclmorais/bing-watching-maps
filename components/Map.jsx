@@ -14,14 +14,16 @@ export default class Map extends PureComponent {
   constructor(props) {
     super(props);
 
-    this.markers = props.markers;
-    this.setHighlightedMarker = props.setHighlightedMarker;
+    this.state = {
+      markers: props.markers,
+      setHighlightedMarker: props.setHighlightedMarker,
+    };
   }
 
   get mapBoundaries() {
-    if (!this.markers.length) return;
+    if (!this.state.markers.length) return;
 
-    return this.markers.map(marker => marker.position);
+    return this.state.markers.map(marker => marker.position);
   }
 
   render() {
@@ -38,7 +40,7 @@ export default class Map extends PureComponent {
           attribution='Map data &copy; <a href=&quot;https://www.openstreetmap.org/&quot;>OpenStreetMap</a> contributors, <a href=&quot;https://creativecommons.org/licenses/by-sa/2.0/&quot;>CC-BY-SA</a>, Imagery &copy; <a href=&quot;https://www.mapbox.com/&quot;>Mapbox</a>'
         />
         
-        {this.markers.map(({ id, position, description, address }, index) => (
+        {this.state.markers.map(({ id, ref, position, description, address }, index) => (
           <Marker
             key={id}
             icon={customIcon({ number: index + 1 })}
@@ -46,7 +48,7 @@ export default class Map extends PureComponent {
             draggable={false}
             animate={true}
             eventHandlers={{
-              click: () => this.setHighlightedMarker(id),
+              click: () => this.state.setHighlightedMarker(ref),
             }}
           >
             <Popup>

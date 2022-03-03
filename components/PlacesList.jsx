@@ -23,7 +23,9 @@ export default function PlacesList({ markers, onMount, selectedLabel, setSelecte
   useEffect(() => {
     if (!highlightedMarker) return;
 
-    highlightedMarker.ref.current.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    console.log({ highlightedMarker})
+
+    highlightedMarker.current.scrollIntoView({ behavior: 'smooth', block: 'center' });
   }, [highlightedMarker]);
 
   return (
@@ -45,7 +47,7 @@ export default function PlacesList({ markers, onMount, selectedLabel, setSelecte
               className={`
                 px-4 pt-2 pb-3
                 ${index % 2 ? 'bg-gray-50' : ''}
-                ${marker.id === highlightedMarker ? styles.focus : ''}
+                ${marker.ref === highlightedMarker ? styles.focus : ''}
               `}
             >
               <p>{index + 1}. {marker.description}</p>
