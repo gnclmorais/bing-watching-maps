@@ -1,5 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 
+import { FaTimes } from 'react-icons/fa';
+
 import styles from './PlacesList.module.css';
 
 export default function PlacesList({ markers, onMount, selectedLabel, setSelectedLabel }) {
@@ -27,9 +29,11 @@ export default function PlacesList({ markers, onMount, selectedLabel, setSelecte
   return (
     <div>
       {selectedLabel && 
-        <div>
-          <p>Filtered by <strong>{selectedLabel}</strong></p>
-          <button onClick={resetLabel}>Clear filter</button>
+        <div className="flex">
+          <p className="flex-grow">Filtered by <strong>{selectedLabel}</strong></p>
+          <button className="flex items-center" onClick={resetLabel}>
+            <FaTimes /> Clear filter
+          </button>
         </div>
       }
       <ol>

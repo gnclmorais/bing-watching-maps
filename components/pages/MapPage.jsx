@@ -44,9 +44,9 @@ export default class MapPage extends Component {
   }
   styleList = () => {
     if (this.isMapSelected()) {
-      return 'overflow-y-scroll w-96 xs:w-full sm:w-full md:w-1/3 xl:w-1/4 md:block hidden';
+      return 'overflow-y-scroll w-full xs:w-full sm:w-full md:w-1/3 xl:w-1/4 md:block hidden';
     } else {
-      return 'overflow-y-scroll w-96 xs:w-full sm:w-full md:w-1/3 xl:w-1/4 md:block';
+      return 'overflow-y-scroll w-full xs:w-full sm:w-full md:w-1/3 xl:w-1/4 md:block';
     }
   }
   styleMap = () => {
