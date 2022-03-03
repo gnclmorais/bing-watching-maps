@@ -35,10 +35,11 @@ export default class MapPage extends Component {
   // Getters
   isMapSelected = () => this.state.selectedTab === TABS.MAP
   styleButton = (buttonTab) => {
+    const common = 'px-4 py-2 font-semibold text-sm text-white shadow-sm rounded-lg flex-grow';
     if (buttonTab === this.state.selectedTab) {
-      return 'px-4 py-2 font-semibold text-sm text-white shadow-sm rounded-lg bg-purple-500';
+      return `${common} bg-purple-500`;
     } else {
-      return 'px-4 py-2 font-semibold text-sm text-white shadow-sm rounded-lg bg-gray-400';
+      return `${common} bg-gray-300`;
     }
   }
   styleList = () => {
@@ -89,7 +90,7 @@ export default class MapPage extends Component {
           {markersToDisplay.length} places
         </p>
 
-        <div className="md:hidden">
+        <div className="md:hidden flex">
           <button type="button" className={this.styleButton(TABS.LIST)} onClick={() => this.selectTab(TABS.LIST)}>
             List
           </button>
