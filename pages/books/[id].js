@@ -10,13 +10,20 @@ export default function Book({ bookData }) {
         <title>{bookData.title}</title>
       </Head>
 
-      Book: <strong>{bookData.title}</strong>
-      <br />
-      {bookData.chapters.map(({ id, title }) => (
-        <Link key={id} href={`/maps/${id}`}>
-          <a className="underline">{title}</a>
-        </Link>
-      ))}
+      <h1>
+        Book: <strong>{bookData.title}</strong>
+      </h1>
+
+      { /* TODO: Grid? */ }
+      <ul>
+        {bookData.chapters.map(({ id, title }) => (
+          <li>
+            <Link key={id} href={`/maps/${id}`}>
+              <a className="underline">{title}</a>
+            </Link>
+          </li>
+        ))}
+      </ul>
     </>
   )
 }
