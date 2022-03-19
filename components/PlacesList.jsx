@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
-
 import { FaTimes } from 'react-icons/fa';
+
+import { sort } from '../lib/utils';
 
 import styles from './PlacesList.module.css';
 
@@ -52,7 +53,7 @@ export default function PlacesList({ markers, onMount, selectedLabel, setSelecte
             >
               <p>{index + 1}. {marker.description}</p>
               <p>
-                {marker.tagged_pins.map(({ id, name }) => {
+                {sort(marker.tagged_pins, { by: 'name' }).map(({ id, name }) => {
                   return (
                     <button
                       key={id}
