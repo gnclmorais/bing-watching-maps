@@ -17,8 +17,8 @@ export default function Book({ bookData }) {
       { /* TODO: Grid? */ }
       <ul>
         {bookData.chapters.map(({ id, title }) => (
-          <li>
-            <Link key={id} href={`/maps/${id}`}>
+          <li key={id}>
+            <Link href={`/maps/${id}`}>
               <a className="underline">{title}</a>
             </Link>
           </li>
