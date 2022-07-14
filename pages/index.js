@@ -69,10 +69,18 @@ export default function Home({ allBooksData }) {
 
       { /* TODO: Finish footer */ }
       <footer className={`
-        bg-purple-900 text-white md:flex
+        bg-gray-200 text-white md:flex
         ${headerAndFooter}
       `}>
-        <section className="flex-grow">One</section>
+        <section className="flex-grow">
+          <h6 className="font-bold">Maps & Rec project</h6>
+          by
+          <a href="https://marionmiclet.com" className="mx-1">Marion Miclet</a>
+          and
+          <a href="https://twitter.com/gnclmorais" className="mx-1">Gonçalo Morais</a>
+          <br />
+          <Link href={'/about'}>About</Link>
+        </section>
         <section className="flex-grow">Two</section>
         <section className="flex-grow">Three</section>
       </footer>
